@@ -1,0 +1,583 @@
+/* screen - basiccomponentpageindicatorscrollbar */
+
+.basiccomponentpageindicatorscrollbar {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-9-8xizdC {
+  background-color: transparent;
+  height: 298px;
+  left: 1090px;
+  position: absolute;
+  top: 342px;
+  width: 730px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-sub-title-8xizdC {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-title-area-8xizdC {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-tab-service-e-basic-layout-8xizdC {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentpageindicatorscrollbar .x3rd-depth-hnC3TA {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentpageindicatorscrollbar .tab-hnC3TA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentpageindicatorscrollbar .page-indicator-xGmKzD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 89px;
+}
+
+.basiccomponentpageindicatorscrollbar .service-feature-type-xGmKzD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 64px;
+}
+
+.basiccomponentpageindicatorscrollbar .table-guide-title-8xizdC {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 620px;
+}
+
+.basiccomponentpageindicatorscrollbar .group-2-8xizdC {
+  background-color: transparent;
+  height: 53px;
+  left: 420px;
+  position: absolute;
+  top: 427px;
+  width: 346px;
+}
+
+.basiccomponentpageindicatorscrollbar .sizehr-copy-12-8xizdC {
+  background-color: transparent;
+  height: 33px;
+  left: 429px;
+  position: absolute;
+  top: 394px;
+  width: 298px;
+}
+
+.basiccomponentpageindicatorscrollbar .lnb-favorite-card-8xizdC {
+  background-color: transparent;
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-tjxliV {
+  background-color: var(--concrete);
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .background-tjxliV {
+  background-color: var(--concrete);
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .stacked-group-tjxliV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose56 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose46 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-contents1dpethclose-Cxyuxo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group144 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group154 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group164 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group176 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group64 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group76 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group86 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group105 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group113 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group126 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group136 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group25 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group35 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group54 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group46 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose26 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose16 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethopenselected6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponentpageindicatorscrollbar .group-Cxyuxo {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-ETOZTp {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .line-copy-ETOZTp {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentpageindicatorscrollbar .empty-A8gGlh {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-title-common-oNeP7f {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentpageindicatorscrollbar .line-tjxliV {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentpageindicatorscrollbar .home-net-gui-guidelin-tjxliV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentpageindicatorscrollbar .webgnb-8xizdC {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .rectangle-J3vxfX {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .background-J3vxfX {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentpageindicatorscrollbar .index-J3vxfX {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-select-jse70I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-unselect-jse70I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basiccomponentpageindicatorscrollbar .web-index-unelectmain-J3vxfX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentpageindicatorscrollbar .logo-EDGSuM {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose56 */
+
+
+/* component - webindexcontents1dpethclose46 */
+
+
+/* component - group144 */
+
+
+/* component - group154 */
+
+
+/* component - group164 */
+
+
+/* component - group176 */
+
+
+/* component - group64 */
+
+
+/* component - group76 */
+
+
+/* component - group86 */
+
+
+/* component - group105 */
+
+
+/* component - group113 */
+
+
+/* component - group126 */
+
+
+/* component - group136 */
+
+
+/* component - group25 */
+
+
+/* component - group35 */
+
+
+/* component - group54 */
+
+
+/* component - group46 */
+
+
+/* component - webindexcontents1dpethclose26 */
+
+
+/* component - webindexcontents1dpethclose16 */
+
+
+/* component - webindexcontents1dpethopenselected6 */
+
+
+/* component - webindexcontents1dpethclose9 */
+
+

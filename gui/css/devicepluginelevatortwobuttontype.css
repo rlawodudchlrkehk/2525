@@ -1,0 +1,980 @@
+/* screen - devicepluginelevatortwobuttontype */
+
+.devicepluginelevatortwobuttontype {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2275px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginelevatortwobuttontype .group-29-jscx0C {
+  background-color: transparent;
+  height: 241px;
+  left: 400px;
+  position: absolute;
+  top: 1391px;
+  width: 640px;
+}
+
+.devicepluginelevatortwobuttontype .group-27-jscx0C {
+  background-color: transparent;
+  height: 793px;
+  left: 400px;
+  position: absolute;
+  top: 398px;
+  width: 380px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-title-jscx0C {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 620px;
+}
+
+.devicepluginelevatortwobuttontype .group-23-jscx0C {
+  background-color: transparent;
+  height: 93px;
+  left: 1090px;
+  position: absolute;
+  top: 1982px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .group-26-jscx0C {
+  background-color: transparent;
+  height: 227px;
+  left: 412px;
+  position: absolute;
+  top: 1781px;
+  width: 351px;
+}
+
+.devicepluginelevatortwobuttontype .group-25-jscx0C {
+  background-color: transparent;
+  height: 627px;
+  left: 1090px;
+  position: absolute;
+  top: 342px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .group-2-zlHTmm {
+  background-color: transparent;
+  height: 363px;
+  left: 0px;
+  position: absolute;
+  top: 197px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .group-6-BenKd4 {
+  background-color: transparent;
+  height: 136px;
+  left: 60px;
+  position: absolute;
+  top: 81px;
+  width: 296px;
+}
+
+.devicepluginelevatortwobuttontype .group-4-BenKd4 {
+  background-color: transparent;
+  height: 136px;
+  left: 60px;
+  position: absolute;
+  top: 227px;
+  width: 296px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2linem-copy-3-BenKd4 {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-4-BenKd4 {
+  background-color: transparent;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-3-BenKd4 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontabletop-zlHTmm {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontable2line-zlHTmm {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-4-1Ilyyx {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-1Ilyyx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2linem-copy-1Ilyyx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontable2line-Xis2Ns {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-4-zJ9X5y {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-2-zJ9X5y {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2linem-copy-2-zJ9X5y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontable2line-xF46Ax {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 570px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-3-yJrcxi {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-4-yJrcxi {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2linem-copy-3-yJrcxi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontable2line-kB0Qcx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-4-uLOprb {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-uLOprb {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2linem-uLOprb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginelevatortwobuttontype .group-20-jscx0C {
+  background-color: transparent;
+  height: 491px;
+  left: 1090px;
+  position: absolute;
+  top: 1391px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontable2line-WBoUCV {
+  background-color: transparent;
+  height: 217px;
+  left: 0px;
+  position: absolute;
+  top: 274px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .group-16-7BpzDV {
+  background-color: transparent;
+  height: 74px;
+  left: 53px;
+  position: absolute;
+  top: 59px;
+  width: 63px;
+}
+
+.devicepluginelevatortwobuttontype .group-19-7BpzDV {
+  background-color: transparent;
+  height: 74px;
+  left: 64px;
+  position: absolute;
+  top: 143px;
+  width: 40px;
+}
+
+.devicepluginelevatortwobuttontype .group-18-7BpzDV {
+  background-color: transparent;
+  height: 74px;
+  left: 215px;
+  position: absolute;
+  top: 59px;
+  width: 53px;
+}
+
+.devicepluginelevatortwobuttontype .group-18-copy-7BpzDV {
+  background-color: transparent;
+  height: 70px;
+  left: 126px;
+  position: absolute;
+  top: 59px;
+  width: 79px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-4-7BpzDV {
+  background-color: transparent;
+  height: 179px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-3-7BpzDV {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2linem-7BpzDV {
+  background-color: transparent;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontable2line-GueBed {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 165px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .areasvg-0Eaexk {
+  background-color: transparent;
+  height: 40px;
+  left: 64px;
+  position: absolute;
+  top: 59px;
+  width: 40px;
+}
+
+.devicepluginelevatortwobuttontype .homeicdeviceactiveup-0Eaexk {
+  background-color: transparent;
+  height: 40px;
+  left: 64px;
+  position: absolute;
+  top: 59px;
+  width: 40px;
+}
+
+.devicepluginelevatortwobuttontype .areasvg-JzPk0Q {
+  background-color: transparent;
+  height: 40px;
+  left: 114px;
+  position: absolute;
+  top: 59px;
+  width: 40px;
+}
+
+.devicepluginelevatortwobuttontype .homeicdeviceactivedown-0Eaexk {
+  background-color: transparent;
+  height: 40px;
+  left: 114px;
+  position: absolute;
+  top: 59px;
+  width: 40px;
+}
+
+.devicepluginelevatortwobuttontype .areasvg-bO1LDx {
+  background-color: transparent;
+  height: 40px;
+  left: 164px;
+  position: absolute;
+  top: 59px;
+  width: 40px;
+}
+
+.devicepluginelevatortwobuttontype .homeicdeviceactivedefault-0Eaexk {
+  background-color: transparent;
+  height: 40px;
+  left: 164px;
+  position: absolute;
+  top: 59px;
+  width: 40px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-4-0Eaexk {
+  background-color: transparent;
+  height: 59px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-3-0Eaexk {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2linem-0Eaexk {
+  background-color: transparent;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontable2line-EfaNol {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-3-bCbxFC {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2linem-bCbxFC {
+  background-color: transparent;
+  height: 59px;
+  left: 62px;
+  position: absolute;
+  top: 37px;
+  width: 400px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text1line-copy-4-bCbxFC {
+  background-color: transparent;
+  height: 99px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginelevatortwobuttontype .table-guide-text2linem-copy-3-bCbxFC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginelevatortwobuttontype .descriptiontabletop-WBoUCV {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.devicepluginelevatortwobuttontype .web-sub-title-jscx0C {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginelevatortwobuttontype .web-title-area-jscx0C {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginelevatortwobuttontype .web-tab-device-ergrated-switch-jscx0C {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginelevatortwobuttontype .x3rd-depth-9UlFrb {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginelevatortwobuttontype .tab-q6iqm4 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginelevatortwobuttontype .one-button-type-Bp85jY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 100px;
+}
+
+.devicepluginelevatortwobuttontype .two-button-type-Bp85jY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 101px;
+}
+
+.devicepluginelevatortwobuttontype .lnb-device-plug-in-jscx0C {
+  background-color: transparent;
+  height: 1131px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .rectangle-Rpb9Ei {
+  background-color: var(--concrete);
+  height: 1131px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .stacked-group-Rpb9Ei {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-title-common-218xL8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose519 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose419 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose319 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose219 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginelevatortwobuttontype .web-index-conte-hopenselected-218xL8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group1117 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1018 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group915 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group817 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group718 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group616 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group517 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group415 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group313 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group213 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group31 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose120 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose62 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginelevatortwobuttontype .group-218xL8 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .empty-5k6TEB {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .line-copy-5k6TEB {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginelevatortwobuttontype .empty-Ocq0IV {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-title-common-my1xaB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginelevatortwobuttontype .line-Rpb9Ei {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginelevatortwobuttontype .home-net-gui-guidelin-Rpb9Ei {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicepluginelevatortwobuttontype .webgnb-jscx0C {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginelevatortwobuttontype .rectangle-vlfBM7 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginelevatortwobuttontype .background-vlfBM7 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginelevatortwobuttontype .index-vlfBM7 {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-select-mw1YKE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-unselect-mw1YKE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginelevatortwobuttontype .web-index-unelectmain-vlfBM7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.devicepluginelevatortwobuttontype .logo-SR3HQR {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose519 */
+
+
+/* component - webindexcontents1dpethclose419 */
+
+
+/* component - webindexcontents1dpethclose319 */
+
+
+/* component - webindexcontents1dpethclose219 */
+
+
+/* component - group1117 */
+
+
+/* component - group1018 */
+
+
+/* component - group915 */
+
+
+/* component - group817 */
+
+
+/* component - group718 */
+
+
+/* component - group616 */
+
+
+/* component - group517 */
+
+
+/* component - group415 */
+
+
+/* component - group313 */
+
+
+/* component - group213 */
+
+
+/* component - group31 */
+
+
+/* component - webindexcontents1dpethclose120 */
+
+
+/* component - webindexcontents1dpethclose62 */
+
+

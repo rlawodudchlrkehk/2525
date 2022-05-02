@@ -1,0 +1,590 @@
+/* screen - devicefeatureadditionalinformation3 */
+
+.devicefeatureadditionalinformation3 {
+  background-color: var(--white);
+  height: 1270px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.devicefeatureadditionalinformation3 .group-4-oyLxxZ {
+  background-color: transparent;
+  height: 306px;
+  left: 358px;
+  position: absolute;
+  top: 342px;
+  width: 682px;
+}
+
+.devicefeatureadditionalinformation3 .group-3-oyLxxZ {
+  background-color: transparent;
+  height: 306px;
+  left: 400px;
+  position: absolute;
+  top: 796px;
+  width: 357px;
+}
+
+.devicefeatureadditionalinformation3 .group-6-oyLxxZ {
+  background-color: transparent;
+  height: 93px;
+  left: 1090px;
+  position: absolute;
+  top: 718px;
+  width: 730px;
+}
+
+.devicefeatureadditionalinformation3 .group-7-oyLxxZ {
+  background-color: transparent;
+  height: 276px;
+  left: 1090px;
+  position: absolute;
+  top: 342px;
+  width: 730px;
+}
+
+.devicefeatureadditionalinformation3 .group-5-WonNHd {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.devicefeatureadditionalinformation3 .table-guide-text2lineb-qIIeDN {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicefeatureadditionalinformation3 .table-guide-text1line-qIIeDN {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation3 .table-guide-text1line-jqYrLC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicefeatureadditionalinformation3 .group-2-WonNHd {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 730px;
+}
+
+.devicefeatureadditionalinformation3 .table-guide-text2lineb-copy-mMRZcM {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicefeatureadditionalinformation3 .table-guide-text1line-copy-3-mMRZcM {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicefeatureadditionalinformation3 .table-guide-text2linem-mMRZcM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicefeatureadditionalinformation3 .group-9-copy-2-WonNHd {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 730px;
+}
+
+.devicefeatureadditionalinformation3 .group-9-copy-3-WonNHd {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 217px;
+  width: 730px;
+}
+
+.devicefeatureadditionalinformation3 .descriptiontabletop-WonNHd {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.devicefeatureadditionalinformation3 .web-sub-titlew-description-oyLxxZ {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicefeatureadditionalinformation3 .web-title-area-oyLxxZ {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicefeatureadditionalinformation3 .web-tab-device-e-capabilities-oyLxxZ {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicefeatureadditionalinformation3 .x3rd-depth-s4Ep7n {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicefeatureadditionalinformation3 .tab-s4Ep7n {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.devicefeatureadditionalinformation3 .additional-informati-RwAYAb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 140px;
+}
+
+.devicefeatureadditionalinformation3 .service-feature-type-RwAYAb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 152px;
+}
+
+.devicefeatureadditionalinformation3 .additional-informati-ljF27i {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 154px;
+}
+
+.devicefeatureadditionalinformation3 .additional-informati-SHTdUV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 152px;
+}
+
+.devicefeatureadditionalinformation3 .additional-informati-PIv5v5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 165px;
+}
+
+.devicefeatureadditionalinformation3 .time-routine-RwAYAb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 94px;
+}
+
+.devicefeatureadditionalinformation3 .lnb-favorite-card-oyLxxZ {
+  background-color: transparent;
+  height: 855px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation3 .rectangle-nbRfGt {
+  background-color: var(--concrete);
+  height: 855px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation3 .background-nbRfGt {
+  background-color: var(--concrete);
+  height: 814px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation3 .stacked-group-nbRfGt {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation3 .web-index-title-common-iNrJPT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose57 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose47 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose37 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.devicefeatureadditionalinformation3 .web-index-contents1dpethclose-iNrJPT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group92 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group11 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group82 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group25 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group56 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose17 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethopenselected7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose10 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.devicefeatureadditionalinformation3 .group-iNrJPT {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation3 .empty-wARZxx {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation3 .line-copy-wARZxx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicefeatureadditionalinformation3 .empty-fpZzxl {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation3 .web-index-title-common-K2mnkf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicefeatureadditionalinformation3 .line-nbRfGt {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicefeatureadditionalinformation3 .home-net-gui-guidelin-nbRfGt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicefeatureadditionalinformation3 .webgnb-oyLxxZ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeatureadditionalinformation3 .rectangle-KBx35J {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeatureadditionalinformation3 .background-KBx35J {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicefeatureadditionalinformation3 .index-KBx35J {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.devicefeatureadditionalinformation3 .web-index-select-G4bDou {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.devicefeatureadditionalinformation3 .web-index-unselect-G4bDou {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicefeatureadditionalinformation3 .web-index-unelectmain-KBx35J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.devicefeatureadditionalinformation3 .logo-sCMz8R {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose57 */
+
+
+/* component - webindexcontents1dpethclose47 */
+
+
+/* component - webindexcontents1dpethclose37 */
+
+
+/* component - group92 */
+
+
+/* component - group11 */
+
+
+/* component - group82 */
+
+
+/* component - group25 */
+
+
+/* component - group56 */
+
+
+/* component - webindexcontents1dpethclose17 */
+
+
+/* component - webindexcontents1dpethopenselected7 */
+
+
+/* component - webindexcontents1dpethclose10 */
+
+

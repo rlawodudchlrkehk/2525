@@ -1,0 +1,793 @@
+/* screen - basiccomponentsliderstepsliderbasic */
+
+.basiccomponentsliderstepsliderbasic {
+  background-color: var(--white);
+  height: 2063px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-16-nAReYS {
+  background-color: transparent;
+  height: 167px;
+  left: 1089px;
+  position: absolute;
+  top: 982px;
+  width: 731px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-15-DPKacx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 731px;
+}
+
+.basiccomponentsliderstepsliderbasic .table-guide-text1line-D64x2Y {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentsliderstepsliderbasic .table-guide-text1line-DV4B0t {
+  background-color: transparent;
+  height: 37px;
+  left: 471px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.basiccomponentsliderstepsliderbasic .table-guide-text2linem-D64x2Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-13-DPKacx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 731px;
+}
+
+.basiccomponentsliderstepsliderbasic .color-status-car-DPKacx {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 424px;
+}
+
+.basiccomponentsliderstepsliderbasic .descriptiontabletop-DPKacx {
+  background-color: transparent;
+  height: 56px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-14-nAReYS {
+  background-color: transparent;
+  height: 368px;
+  left: 1089px;
+  position: absolute;
+  top: 342px;
+  width: 730px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-8-XPDcJJ {
+  background-color: transparent;
+  height: 244px;
+  left: 0px;
+  position: absolute;
+  top: 124px;
+  width: 730px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-3-XPDcJJ {
+  background-color: transparent;
+  height: 58px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.basiccomponentsliderstepsliderbasic .table-guide-text2linem-copy-YHVvUh {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.basiccomponentsliderstepsliderbasic .table-guide-text1line-YHVvUh {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentsliderstepsliderbasic .table-guide-text2linem-YHVvUh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 58px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.basiccomponentsliderstepsliderbasic .descriptiontabletop-XPDcJJ {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-6-nAReYS {
+  background-color: transparent;
+  height: 442px;
+  left: 419px;
+  position: absolute;
+  top: 342px;
+  width: 621px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-9-nAReYS {
+  background-color: transparent;
+  height: 276px;
+  left: 382px;
+  position: absolute;
+  top: 982px;
+  width: 659px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-12-nAReYS {
+  background-color: transparent;
+  height: 288px;
+  left: 382px;
+  position: absolute;
+  top: 1456px;
+  width: 659px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-23-nAReYS {
+  background-color: transparent;
+  height: 140px;
+  left: 1089px;
+  position: absolute;
+  top: 1723px;
+  width: 731px;
+}
+
+.basiccomponentsliderstepsliderbasic .web-sub-title-nAReYS {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentsliderstepsliderbasic .web-title-area-nAReYS {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentsliderstepsliderbasic .web-tab-service-e-basic-layout-nAReYS {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentsliderstepsliderbasic .x3rd-depth-7Iw2Hw {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentsliderstepsliderbasic .tab-7Iw2Hw {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentsliderstepsliderbasic .linear-slider--basi-PKFvZ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 123px;
+}
+
+.basiccomponentsliderstepsliderbasic .service-feature-type-PKFvZ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 113px;
+}
+
+.basiccomponentsliderstepsliderbasic .lnb-favorite-card-nAReYS {
+  background-color: transparent;
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepsliderbasic .rectangle-GRBTKm {
+  background-color: var(--concrete);
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepsliderbasic .background-GRBTKm {
+  background-color: var(--concrete);
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepsliderbasic .stacked-group-GRBTKm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepsliderbasic .web-index-title-common-BFgafr {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose58 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose48 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponentsliderstepsliderbasic .web-index-contents1dpethclose-BFgafr {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group178 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group186 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group194 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group204 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group56 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group78 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group88 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group107 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group115 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group138 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group156 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group28 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group29 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group47 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group37 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose28 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose18 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethopenselected8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose11 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponentsliderstepsliderbasic .group-BFgafr {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderstepsliderbasic .empty-xrGQlR {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepsliderbasic .line-copy-xrGQlR {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentsliderstepsliderbasic .empty-xbndIb {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderstepsliderbasic .web-index-title-common-b3r9Af {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderstepsliderbasic .line-GRBTKm {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentsliderstepsliderbasic .home-net-gui-guidelin-GRBTKm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentsliderstepsliderbasic .webgnb-nAReYS {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderstepsliderbasic .rectangle-sCgvSe {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderstepsliderbasic .background-sCgvSe {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderstepsliderbasic .index-sCgvSe {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.basiccomponentsliderstepsliderbasic .web-index-select-O3ebMC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.basiccomponentsliderstepsliderbasic .web-index-unselect-O3ebMC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basiccomponentsliderstepsliderbasic .web-index-unelectmain-sCgvSe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentsliderstepsliderbasic .logo-OxMPzd {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-16-46VN23 {
+  background-color: transparent;
+  height: 167px;
+  left: 1089px;
+  position: absolute;
+  top: 1456px;
+  width: 731px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-15-xX3eST {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 731px;
+}
+
+.basiccomponentsliderstepsliderbasic .table-guide-text1line-Ntf9yz {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentsliderstepsliderbasic .table-guide-text1line-HczI3l {
+  background-color: transparent;
+  height: 37px;
+  left: 471px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.basiccomponentsliderstepsliderbasic .table-guide-text2linem-Ntf9yz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.basiccomponentsliderstepsliderbasic .group-13-xX3eST {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 731px;
+}
+
+.basiccomponentsliderstepsliderbasic .color-status-car-xX3eST {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 424px;
+}
+
+.basiccomponentsliderstepsliderbasic .descriptiontabletop-xX3eST {
+  background-color: transparent;
+  height: 56px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+/* component - webindexcontents1dpethclose58 */
+
+
+/* component - webindexcontents1dpethclose48 */
+
+
+/* component - group178 */
+
+
+/* component - group186 */
+
+
+/* component - group194 */
+
+
+/* component - group204 */
+
+
+/* component - group56 */
+
+
+/* component - group78 */
+
+
+/* component - group88 */
+
+
+/* component - group107 */
+
+
+/* component - group115 */
+
+
+/* component - group138 */
+
+
+/* component - group156 */
+
+
+/* component - group28 */
+
+
+/* component - group29 */
+
+
+/* component - group47 */
+
+
+/* component - group37 */
+
+
+/* component - webindexcontents1dpethclose28 */
+
+
+/* component - webindexcontents1dpethclose18 */
+
+
+/* component - webindexcontents1dpethopenselected8 */
+
+
+/* component - webindexcontents1dpethclose11 */
+
+

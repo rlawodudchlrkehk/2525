@@ -1,0 +1,421 @@
+/* screen - c2cconnectedwelcomepage */
+
+.c2cconnectedwelcomepage {
+  background-color: var(--white);
+  height: 2423px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .group-4-x4QcKc {
+  background-color: transparent;
+  height: 321px;
+  left: 1090px;
+  position: absolute;
+  top: 295px;
+  width: 730px;
+}
+
+.c2cconnectedwelcomepage .onboardingfeat-es-welcomedark-x4QcKc {
+  background-color: transparent;
+  height: 760px;
+  left: 430px;
+  position: absolute;
+  top: 1463px;
+  width: 360px;
+}
+
+.c2cconnectedwelcomepage .table-guide-tit-isabled-divider-x4QcKc {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 1358px;
+  width: 295px;
+}
+
+.c2cconnectedwelcomepage .group-x4QcKc {
+  background-color: transparent;
+  height: 760px;
+  left: 400px;
+  position: absolute;
+  top: 448px;
+  width: 478px;
+}
+
+.c2cconnectedwelcomepage .web-sub-title-x4QcKc {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2cconnectedwelcomepage .table-guide-title-x4QcKc {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 620px;
+}
+
+.c2cconnectedwelcomepage .group-3-x4QcKc {
+  background-color: transparent;
+  height: 104px;
+  left: 1090px;
+  position: absolute;
+  top: 716px;
+  width: 216px;
+}
+
+.c2cconnectedwelcomepage .web-title-area-x4QcKc {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2cconnectedwelcomepage .web-tabc2-capa-rvide-connected-x4QcKc {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2cconnectedwelcomepage .x3rd-depth-96kziw {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2cconnectedwelcomepage .tab-96kziw {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2cconnectedwelcomepage .overview-Um6NDt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 58px;
+}
+
+.c2cconnectedwelcomepage .onboardingstart-pag-Um6NDt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2cconnectedwelcomepage .onboardingstart-pag-pnKSMJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 193px;
+}
+
+.c2cconnectedwelcomepage .onboarding-welcome-p-Um6NDt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 172px;
+}
+
+.c2cconnectedwelcomepage .onboarding-strongman-Um6NDt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 168px;
+}
+
+.c2cconnectedwelcomepage .lnb-service-feature-x4QcKc {
+  background-color: transparent;
+  height: 606px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .rectangle-SAIGL3 {
+  background-color: var(--concrete);
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .background-SAIGL3 {
+  background-color: var(--concrete);
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .stacked-group-SAIGL3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .web-index-title-common-1SA6wJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .stacked-group-copy-SAIGL3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 247px;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .web-index-title-common-ojABdZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2cconnectedwelcomepage .line-SAIGL3 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2cconnectedwelcomepage .line-copy-SAIGL3 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 230px;
+  width: 275px;
+}
+
+.c2cconnectedwelcomepage .home-net-gui-guidelin-SAIGL3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.c2cconnectedwelcomepage .webgnb-x4QcKc {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .rectangle-n3xREL {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .background-n3xREL {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .index-n3xREL {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.c2cconnectedwelcomepage .web-index-unselect-wYf7mP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.c2cconnectedwelcomepage .web-index-select-wYf7mP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2cconnectedwelcomepage .web-index-select-n3xREL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 513px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2cconnectedwelcomepage .web-index-selectmain-n3xREL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.c2cconnectedwelcomepage .logo-K8PJDo {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose */
+
+
+/* component - webindexcontents1dpethclose1 */
+
+
+/* component - webindexcontents1dpethclose2 */
+
+
+/* component - webindexcontents1dpethclose3 */
+
+
+/* component - webindexcontents1dpethclose4 */
+
+
+/* component - webindexcontents1dpethclose5 */
+
+

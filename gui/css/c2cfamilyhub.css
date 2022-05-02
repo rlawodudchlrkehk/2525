@@ -1,0 +1,336 @@
+/* screen - c2cfamilyhub */
+
+.c2cfamilyhub {
+  background-color: var(--white);
+  height: 1195px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cfamilyhub .group-2-4VWafM {
+  background-color: transparent;
+  height: 184px;
+  left: 1090px;
+  position: absolute;
+  top: 342px;
+  width: 730px;
+}
+
+.c2cfamilyhub .group-4VWafM {
+  background-color: transparent;
+  height: 182px;
+  left: 400px;
+  position: absolute;
+  top: 448px;
+  width: 352px;
+}
+
+.c2cfamilyhub .group-copy-4VWafM {
+  background-color: transparent;
+  height: 109px;
+  left: 400px;
+  position: absolute;
+  top: 886px;
+  width: 183px;
+}
+
+.c2cfamilyhub .web-sub-title-4VWafM {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2cfamilyhub .table-guide-title-4VWafM {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 620px;
+}
+
+.c2cfamilyhub .table-guide-title-tKuIIu {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 780px;
+  width: 620px;
+}
+
+.c2cfamilyhub .lnb-service-feature-4VWafM {
+  background-color: transparent;
+  height: 606px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cfamilyhub .rectangle-JIGgrQ {
+  background-color: var(--concrete);
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cfamilyhub .background-JIGgrQ {
+  background-color: var(--concrete);
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cfamilyhub .stacked-group-JIGgrQ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.c2cfamilyhub .web-index-title-common-5x1Zwj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cfamilyhub .stacked-group-copy-JIGgrQ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 247px;
+  width: 320px;
+}
+
+.c2cfamilyhub .web-index-title-common-eVaYLp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose11 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose17 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose27 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose37 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose47 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose57 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2cfamilyhub .line-JIGgrQ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2cfamilyhub .line-copy-JIGgrQ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 230px;
+  width: 275px;
+}
+
+.c2cfamilyhub .home-net-gui-guidelin-JIGgrQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.c2cfamilyhub .web-title-area-4VWafM {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2cfamilyhub .webgnb-4VWafM {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cfamilyhub .rectangle-E2DoPF {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cfamilyhub .background-E2DoPF {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cfamilyhub .index-E2DoPF {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.c2cfamilyhub .web-index-unselect-xDpJxk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.c2cfamilyhub .web-index-select-xDpJxk {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2cfamilyhub .web-index-select-E2DoPF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 513px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2cfamilyhub .web-index-selectmain-E2DoPF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.c2cfamilyhub .logo-CBgC4A {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose11 */
+
+
+/* component - webindexcontents1dpethclose17 */
+
+
+/* component - webindexcontents1dpethclose27 */
+
+
+/* component - webindexcontents1dpethclose37 */
+
+
+/* component - webindexcontents1dpethclose47 */
+
+
+/* component - webindexcontents1dpethclose57 */
+
+

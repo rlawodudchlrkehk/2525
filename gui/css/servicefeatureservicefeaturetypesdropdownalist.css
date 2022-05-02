@@ -1,0 +1,613 @@
+/* screen - servicefeatureservicefeaturetypesdropdownalist */
+
+.servicefeatureservicefeaturetypesdropdownalist {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2699px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-4-UjN661 {
+  background-color: transparent;
+  height: 565px;
+  left: 380px;
+  position: absolute;
+  top: 343px;
+  width: 660px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-8-UjN661 {
+  background-color: transparent;
+  height: 627px;
+  left: 376px;
+  position: absolute;
+  top: 1051px;
+  width: 664px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-7-UjN661 {
+  background-color: transparent;
+  height: 120px;
+  left: 1090px;
+  position: absolute;
+  top: 1051px;
+  width: 730px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-13-UjN661 {
+  background-color: transparent;
+  height: 234px;
+  left: 1090px;
+  position: absolute;
+  top: 343px;
+  width: 730px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-10-KONE3P {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 730px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text1line-Yj9z5O {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text2line-Yj9z5O {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text1line-3raTYV {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-12-KONE3P {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 197px;
+  width: 730px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text1line-gh709K {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text2line-gh709K {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text1line-M3H7h2 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-2-KONE3P {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text1line-UZhdbB {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text2line-UZhdbB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text1line-pDrmJj {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-11-KONE3P {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 730px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text1line-K2xebV {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text2line-K2xebV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .table-guide-text1line-JiCjNX {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .descriptiontabletop-KONE3P {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-5-UjN661 {
+  background-color: transparent;
+  height: 264px;
+  left: 411px;
+  position: absolute;
+  top: 1859px;
+  width: 600px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-6-UjN661 {
+  background-color: transparent;
+  height: 227px;
+  left: 392px;
+  position: absolute;
+  top: 2273px;
+  width: 364px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-9-UjN661 {
+  background-color: transparent;
+  height: 342px;
+  left: 1089px;
+  position: absolute;
+  top: 1859px;
+  width: 731px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .web-sub_-title-UjN661 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 285px;
+  width: 1600px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .web-title-area-UjN661 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 65px;
+  width: 1600px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .web-tab-favorite-car-UjN661 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .x3rd-depth-HMlB2x {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .tab-HMlB2x {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .service-feature-type-91977M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 130px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .service-feature-type-xFXZab {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 26px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .list-91977M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 23px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .dropdown-list-91977M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 105px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .dropdwon-graph-91977M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 117px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .media-91977M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 38px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .lnb-favorite-card-UjN661 {
+  background-color: transparent;
+  height: 717px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .rectangle-1P7HSj {
+  background-color: var(--concrete);
+  height: 717px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .background-1P7HSj {
+  background-color: var(--concrete);
+  height: 717px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .stacked-group-1P7HSj {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .web-index-title-common-wtrmZz {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose52 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose42 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose32 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose22 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose12 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .web-index-contents1dpeth_open_selected-wtrmZz {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group22 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .group-wtrmZz {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .empty-JX8RcW {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .line-copy-JX8RcW {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .empty-348zg6 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .web-index-title-common-XZ9fRg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .line-1P7HSj {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .home-net-gui-guidelin-1P7HSj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .webgnb-UjN661 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .rectangle-zG2wca {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .background-zG2wca {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .index-zG2wca {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .web-index-select-mubTZL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .web-index-unselect-mubTZL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .web-index-unelect_main-zG2wca {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.servicefeatureservicefeaturetypesdropdownalist .logo-Dam9iP {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

@@ -1,0 +1,701 @@
+/* screen - basiccomponentbasiclayoutbasicgriddeviceplugin */
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin {
+  background-color: var(--white);
+  height: 2238px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-6-BEivSl {
+  background-color: transparent;
+  height: 648px;
+  left: 420px;
+  position: absolute;
+  top: 1390px;
+  width: 401px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-12-BEivSl {
+  background-color: transparent;
+  height: 113px;
+  left: 1089px;
+  position: absolute;
+  top: 1390px;
+  width: 731px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-4-BEivSl {
+  background-color: transparent;
+  height: 900px;
+  left: 400px;
+  position: absolute;
+  top: 342px;
+  width: 640px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-11-BEivSl {
+  background-color: transparent;
+  height: 160px;
+  left: 1089px;
+  position: absolute;
+  top: 342px;
+  width: 731px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-7-aTAjWl {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 731px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-10-aTAjWl {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 731px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-8-QeirCO {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 731px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .table-guide-text1line-OQx9qb {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .table-guide-text1line-xURiiY {
+  background-color: transparent;
+  height: 37px;
+  left: 471px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .table-guide-text2linem-OQx9qb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .descriptiontabletop-aTAjWl {
+  background-color: transparent;
+  height: 56px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-sub-title-BEivSl {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-title-area-BEivSl {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-tab-service-e-basic-layout-BEivSl {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .x3rd-depth-ixx4Ty {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .tab-ixx4Ty {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .header-app-bar-3DbiFC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 102px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .service-feature-type-3DbiFC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 71px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .layout-basic-grid-de-3DbiFC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 205px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .layout-basic-grid-se-3DbiFC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 208px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .layoutbg-3DbiFC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 68px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .layoutbg-dynamic-br-3DbiFC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 255px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .progress-circle-3DbiFC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .refresh-3DbiFC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .lnb-favorite-card-BEivSl {
+  background-color: transparent;
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .rectangle-SsVbLM {
+  background-color: var(--concrete);
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .background-SsVbLM {
+  background-color: var(--concrete);
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .stacked-group-SsVbLM {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-title-common-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose515 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose415 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-contents1dpethclose-OKa7d1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group1611 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1714 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1812 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group197 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group714 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group814 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group97 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1011 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1314 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1412 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1512 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group51 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group217 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group59 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group311 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose215 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose116 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethopenselected15 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose33 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .group-OKa7d1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .empty-dYEoHq {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .line-copy-dYEoHq {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .empty-BuTlSq {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-title-common-P28TGV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .line-SsVbLM {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .home-net-gui-guidelin-SsVbLM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .webgnb-BEivSl {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .rectangle-sJDmXF {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .background-sJDmXF {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .index-sJDmXF {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-select-6AApxj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-unselect-6AApxj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .web-index-unelectmain-sJDmXF {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentbasiclayoutbasicgriddeviceplugin .logo-UfUyzq {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose515 */
+
+
+/* component - webindexcontents1dpethclose415 */
+
+
+/* component - group1611 */
+
+
+/* component - group1714 */
+
+
+/* component - group1812 */
+
+
+/* component - group197 */
+
+
+/* component - group714 */
+
+
+/* component - group814 */
+
+
+/* component - group97 */
+
+
+/* component - group1011 */
+
+
+/* component - group1314 */
+
+
+/* component - group1412 */
+
+
+/* component - group1512 */
+
+
+/* component - group51 */
+
+
+/* component - group217 */
+
+
+/* component - group59 */
+
+
+/* component - group311 */
+
+
+/* component - webindexcontents1dpethclose215 */
+
+
+/* component - webindexcontents1dpethclose116 */
+
+
+/* component - webindexcontents1dpethopenselected15 */
+
+
+/* component - webindexcontents1dpethclose33 */
+
+

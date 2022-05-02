@@ -1,0 +1,837 @@
+/* screen - devicepluginsmartplugsmartplug */
+
+.devicepluginsmartplugsmartplug {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1673px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginsmartplugsmartplug .group-2-yxoWxQ {
+  background-color: transparent;
+  height: 1075px;
+  left: 400px;
+  position: absolute;
+  top: 398px;
+  width: 380px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-title-yxoWxQ {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 620px;
+}
+
+.devicepluginsmartplugsmartplug .group-3-yxoWxQ {
+  background-color: transparent;
+  height: 528px;
+  left: 1090px;
+  position: absolute;
+  top: 342px;
+  width: 730px;
+}
+
+.devicepluginsmartplugsmartplug .descriptiontable2line-uHNxBu {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 259px;
+  width: 730px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-cMfR9j {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-Yaqwfm {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text2line-cMfR9j {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginsmartplugsmartplug .descriptiontable2line-yalP5V {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 306px;
+  width: 730px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-VxxGG4 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-eXxI9i {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text2line-VxxGG4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginsmartplugsmartplug .descriptiontable2line-8gxmuM {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 353px;
+  width: 730px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-gfvOuy {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-lURk5P {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text2line-gfvOuy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginsmartplugsmartplug .descriptiontable2line-LhnN4x {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 165px;
+  width: 730px;
+}
+
+.devicepluginsmartplugsmartplug .group-7xdQ2H {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 730px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-3d7vv0 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-eogPxG {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text2line-3d7vv0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginsmartplugsmartplug .descriptiontable2line-ooWjd8 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 212px;
+  width: 730px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-pme7FU {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-GQMWor {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text2line-pme7FU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginsmartplugsmartplug .descriptiontable2line-BmeAYn {
+  background-color: transparent;
+  height: 108px;
+  left: 0px;
+  position: absolute;
+  top: 420px;
+  width: 730px;
+}
+
+.devicepluginsmartplugsmartplug .areasvg-copy-4-y5tDNS {
+  background-color: transparent;
+  height: 41px;
+  left: 62px;
+  position: absolute;
+  top: 67px;
+  width: 38px;
+}
+
+.devicepluginsmartplugsmartplug .areasvg-copy-5-y5tDNS {
+  background-color: transparent;
+  height: 41px;
+  left: 118px;
+  position: absolute;
+  top: 67px;
+  width: 38px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-y5tDNS {
+  background-color: transparent;
+  height: 99px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text2line-y5tDNS {
+  background-color: transparent;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-xkekgy {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginsmartplugsmartplug .homeicdeviceoff-y5tDNS {
+  background-color: transparent;
+  height: 40px;
+  left: 119px;
+  position: absolute;
+  top: 68px;
+  width: 37px;
+}
+
+.devicepluginsmartplugsmartplug .homeicdeviceon-y5tDNS {
+  background-color: transparent;
+  height: 40px;
+  left: 62px;
+  position: absolute;
+  top: 67px;
+  width: 37px;
+}
+
+.devicepluginsmartplugsmartplug .descriptiontable2line-1CMANA {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-copy-3-o1U01l {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text2linem-o1U01l {
+  background-color: transparent;
+  height: 59px;
+  left: 62px;
+  position: absolute;
+  top: 37px;
+  width: 400px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text1line-copy-4-o1U01l {
+  background-color: transparent;
+  height: 99px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.devicepluginsmartplugsmartplug .table-guide-text2linem-copy-3-o1U01l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.devicepluginsmartplugsmartplug .descriptiontabletop-uHNxBu {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.devicepluginsmartplugsmartplug .web-sub-title-yxoWxQ {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugsmartplug .web-title-area-yxoWxQ {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugsmartplug .web-tab-device-in-smart-plug-yxoWxQ {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugsmartplug .x3rd-depth-EZpNKo {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.devicepluginsmartplugsmartplug .tab-I33x3G {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.devicepluginsmartplugsmartplug .smart-plug-O7h22l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 69px;
+}
+
+.devicepluginsmartplugsmartplug .basic-key-screen-O7h22l {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 101px;
+}
+
+.devicepluginsmartplugsmartplug .lnb-device-plug-in-yxoWxQ {
+  background-color: transparent;
+  height: 1131px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsmartplugsmartplug .rectangle-ZmzlyL {
+  background-color: var(--concrete);
+  height: 1131px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsmartplugsmartplug .stacked-group-ZmzlyL {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.devicepluginsmartplugsmartplug .web-index-title-common-eVvCtk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose56 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose46 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose36 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose26 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginsmartplugsmartplug .web-index-conte-hopenselected-eVvCtk {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group136 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group126 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group116 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group106 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group95 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group85 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group76 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group66 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group56 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group43 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group16 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose16 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose10 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.devicepluginsmartplugsmartplug .group-eVvCtk {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsmartplugsmartplug .empty-raIGLL {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.devicepluginsmartplugsmartplug .line-copy-raIGLL {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.devicepluginsmartplugsmartplug .empty-XJxkKw {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.devicepluginsmartplugsmartplug .web-index-title-common-Jz7WH6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.devicepluginsmartplugsmartplug .line-ZmzlyL {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.devicepluginsmartplugsmartplug .home-net-gui-guidelin-ZmzlyL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.devicepluginsmartplugsmartplug .webgnb-yxoWxQ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginsmartplugsmartplug .rectangle-w7XdgS {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginsmartplugsmartplug .background-w7XdgS {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.devicepluginsmartplugsmartplug .index-w7XdgS {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.devicepluginsmartplugsmartplug .web-index-select-X2j81m {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.devicepluginsmartplugsmartplug .web-index-unselect-X2j81m {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.devicepluginsmartplugsmartplug .web-index-unelectmain-w7XdgS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.devicepluginsmartplugsmartplug .logo-psxkhU {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose56 */
+
+
+/* component - webindexcontents1dpethclose46 */
+
+
+/* component - webindexcontents1dpethclose36 */
+
+
+/* component - webindexcontents1dpethclose26 */
+
+
+/* component - group136 */
+
+
+/* component - group126 */
+
+
+/* component - group116 */
+
+
+/* component - group106 */
+
+
+/* component - group95 */
+
+
+/* component - group85 */
+
+
+/* component - group76 */
+
+
+/* component - group66 */
+
+
+/* component - group56 */
+
+
+/* component - group43 */
+
+
+/* component - group16 */
+
+
+/* component - webindexcontents1dpethclose16 */
+
+
+/* component - webindexcontents1dpethclose10 */
+
+

@@ -1,0 +1,965 @@
+/* screen - servicepluginvisitorsparkingcard */
+
+.servicepluginvisitorsparkingcard {
+  background-color: var(--white);
+  height: 4572px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginvisitorsparkingcard .group-18-H6nNaD {
+  background-color: transparent;
+  height: 391px;
+  left: 380px;
+  position: absolute;
+  top: 2965px;
+  width: 660px;
+}
+
+.servicepluginvisitorsparkingcard .group-12-H6nNaD {
+  background-color: transparent;
+  height: 271px;
+  left: 380px;
+  position: absolute;
+  top: 3505px;
+  width: 440px;
+}
+
+.servicepluginvisitorsparkingcard .group-19-H6nNaD {
+  background-color: transparent;
+  height: 403px;
+  left: 400px;
+  position: absolute;
+  top: 3969px;
+  width: 620px;
+}
+
+.servicepluginvisitorsparkingcard .group-17-H6nNaD {
+  background-color: transparent;
+  height: 461px;
+  left: 400px;
+  position: absolute;
+  top: 2304px;
+  width: 396px;
+}
+
+.servicepluginvisitorsparkingcard .group-26-H6nNaD {
+  background-color: transparent;
+  height: 276px;
+  left: 1090px;
+  position: absolute;
+  top: 1498px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .group-3-M6PNFa {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text1line-ARU2v8 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-ARU2v8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-fQzoNZ {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicepluginvisitorsparkingcard .group-25-M6PNFa {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 239px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text1line-y3nHdm {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-y3nHdm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-1tJ2jx {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicepluginvisitorsparkingcard .group-24-M6PNFa {
+  background-color: transparent;
+  height: 126px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text1line-ZKQpJw {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-ZKQpJw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-copy-7-ZKQpJw {
+  background-color: transparent;
+  height: 126px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicepluginvisitorsparkingcard .descriptiontabletop-M6PNFa {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .group-26-v4Pg4x {
+  background-color: transparent;
+  height: 229px;
+  left: 1090px;
+  position: absolute;
+  top: 2304px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .group-3-4HGw9I {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text1line-KVv7kx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-KVv7kx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-VxHuqs {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicepluginvisitorsparkingcard .group-24-4HGw9I {
+  background-color: transparent;
+  height: 126px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text1line-a3qc67 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-a3qc67 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-copy-7-a3qc67 {
+  background-color: transparent;
+  height: 126px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicepluginvisitorsparkingcard .descriptiontabletop-4HGw9I {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .group-28-H6nNaD {
+  background-color: transparent;
+  height: 160px;
+  left: 1090px;
+  position: absolute;
+  top: 2965px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .group-6-P5E4ZP {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text1line-AmmATO {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-AmmATO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-xveogg {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicepluginvisitorsparkingcard .group-13-P5E4ZP {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text1line-HdKtUo {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-HdKtUo {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-copy-7-HdKtUo {
+  background-color: transparent;
+  height: 57px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicepluginvisitorsparkingcard .descriptiontabletop-P5E4ZP {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .group-28-v4Pg4x {
+  background-color: transparent;
+  height: 140px;
+  left: 1090px;
+  position: absolute;
+  top: 3969px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .group-6-KOoxRt {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text1line-zOwaf4 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-zOwaf4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-nsmTe4 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicepluginvisitorsparkingcard .group-27-KOoxRt {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text1line-WaRWu4 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-WaRWu4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginvisitorsparkingcard .table-guide-text2line_m-0staYl {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.servicepluginvisitorsparkingcard .descriptiontabletop-KOoxRt {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .group-16-H6nNaD {
+  background-color: transparent;
+  height: 658px;
+  left: 400px;
+  position: absolute;
+  top: 1498px;
+  width: 640px;
+}
+
+.servicepluginvisitorsparkingcard .group-5-H6nNaD {
+  background-color: transparent;
+  height: 194px;
+  left: 1090px;
+  position: absolute;
+  top: 1874px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .group-15-H6nNaD {
+  background-color: transparent;
+  height: 99px;
+  left: 1090px;
+  position: absolute;
+  top: 4209px;
+  width: 730px;
+}
+
+.servicepluginvisitorsparkingcard .group-22-H6nNaD {
+  background-color: transparent;
+  height: 403px;
+  left: 419px;
+  position: absolute;
+  top: 895px;
+  width: 1208px;
+}
+
+.servicepluginvisitorsparkingcard .group-21-H6nNaD {
+  background-color: transparent;
+  height: 403px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 1208px;
+}
+
+.servicepluginvisitorsparkingcard .web-sub_-title-H6nNaD {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginvisitorsparkingcard .web-title-area-H6nNaD {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginvisitorsparkingcard .web-tab-service-plug-in_cctv-H6nNaD {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginvisitorsparkingcard .x3rd-depth-RmX72f {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginvisitorsparkingcard .tab-ZD5h7T {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginvisitorsparkingcard .card-ZINKlX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 29px;
+}
+
+.servicepluginvisitorsparkingcard .feature-ZINKlX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginvisitorsparkingcard .feature-register-ZINKlX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.servicepluginvisitorsparkingcard .feature-informatio-ZINKlX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 131px;
+}
+
+.servicepluginvisitorsparkingcard .pop-up-ZINKlX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.servicepluginvisitorsparkingcard .pop-up-detail-ZINKlX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.servicepluginvisitorsparkingcard .feature-_-delete-lis-ZINKlX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 128px;
+}
+
+.servicepluginvisitorsparkingcard .lnb-service-plug-in-H6nNaD {
+  background-color: transparent;
+  height: 1085px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginvisitorsparkingcard .rectangle-Vlf8NK {
+  background-color: var(--concrete);
+  height: 1085px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginvisitorsparkingcard .lnb-Vlf8NK {
+  background-color: transparent;
+  height: 1085px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginvisitorsparkingcard .stacked-group-dnvOe9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginvisitorsparkingcard .web-index-title-common-ymGWRm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose518 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose418 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose318 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose119 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose218 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose61 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.servicepluginvisitorsparkingcard .web-index-contents1dpeth_open_selected-ymGWRm {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group1114 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1017 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group915 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group815 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group712 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group614 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group415 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group313 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group216 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group41 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.servicepluginvisitorsparkingcard .group-ymGWRm {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvisitorsparkingcard .empty-uABPj1 {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginvisitorsparkingcard .line-copy-uABPj1 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginvisitorsparkingcard .empty-V4dE9N {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginvisitorsparkingcard .web-index-title-common-DYQxUG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginvisitorsparkingcard .line-dnvOe9 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginvisitorsparkingcard .home-net-gui-guidelin-dnvOe9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginvisitorsparkingcard .webgnb-H6nNaD {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginvisitorsparkingcard .rectangle-vgR6mw {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginvisitorsparkingcard .background-vgR6mw {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginvisitorsparkingcard .index-vgR6mw {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginvisitorsparkingcard .web-index-select-2t8pfI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginvisitorsparkingcard .web-index-unselect-2t8pfI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginvisitorsparkingcard .web-index-unelect_main-vgR6mw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.servicepluginvisitorsparkingcard .logo-VT49vX {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

@@ -1,0 +1,764 @@
+/* screen - basiccomponenttextfieldsstates */
+
+.basiccomponenttextfieldsstates {
+  background-color: var(--white);
+  height: 3625px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstates .group-47-W58mWk {
+  background-color: transparent;
+  height: 184px;
+  left: 367px;
+  position: absolute;
+  top: 784px;
+  width: 673px;
+}
+
+.basiccomponenttextfieldsstates .group-48-W58mWk {
+  background-color: transparent;
+  height: 183px;
+  left: 367px;
+  position: absolute;
+  top: 2176px;
+  width: 481px;
+}
+
+.basiccomponenttextfieldsstates .group-18-W58mWk {
+  background-color: transparent;
+  height: 240px;
+  left: 400px;
+  position: absolute;
+  top: 1786px;
+  width: 380px;
+}
+
+.basiccomponenttextfieldsstates .group-14-W58mWk {
+  background-color: transparent;
+  height: 184px;
+  left: 367px;
+  position: absolute;
+  top: 1452px;
+  width: 481px;
+}
+
+.basiccomponenttextfieldsstates .group-13-W58mWk {
+  background-color: transparent;
+  height: 184px;
+  left: 400px;
+  position: absolute;
+  top: 1118px;
+  width: 380px;
+}
+
+.basiccomponenttextfieldsstates .group-41-W58mWk {
+  background-color: transparent;
+  height: 1008px;
+  left: 1090px;
+  position: absolute;
+  top: 1296px;
+  width: 730px;
+}
+
+.basiccomponenttextfieldsstates .group-37-W58mWk {
+  background-color: transparent;
+  height: 412px;
+  left: 1090px;
+  position: absolute;
+  top: 784px;
+  width: 730px;
+}
+
+.basiccomponenttextfieldsstates .descriptiontabletop-uKpS96 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.basiccomponenttextfieldsstates .group-4-uKpS96 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 730px;
+}
+
+.basiccomponenttextfieldsstates .group-30-uKpS96 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 172px;
+  width: 730px;
+}
+
+.basiccomponenttextfieldsstates .group-31-uKpS96 {
+  background-color: transparent;
+  height: 77px;
+  left: 0px;
+  position: absolute;
+  top: 261px;
+  width: 730px;
+}
+
+.basiccomponenttextfieldsstates .group-34-uKpS96 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 348px;
+  width: 730px;
+}
+
+.basiccomponenttextfieldsstates .group-uKpS96 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2linem-copy-1NgBOi {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text1line-1NgBOi {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponenttextfieldsstates .table-guide-text2linem-1NgBOi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.basiccomponenttextfieldsstates .group-45-W58mWk {
+  background-color: transparent;
+  height: 133px;
+  left: 1090px;
+  position: absolute;
+  top: 2559px;
+  width: 730px;
+}
+
+.basiccomponenttextfieldsstates .group-43-W58mWk {
+  background-color: transparent;
+  height: 867px;
+  left: 349px;
+  position: absolute;
+  top: 2559px;
+  width: 671px;
+}
+
+.basiccomponenttextfieldsstates .group-12-W58mWk {
+  background-color: transparent;
+  height: 106px;
+  left: 1096px;
+  position: absolute;
+  top: 478px;
+  width: 388px;
+}
+
+.basiccomponenttextfieldsstates .group-51-W58mWk {
+  background-color: transparent;
+  height: 106px;
+  left: 708px;
+  position: absolute;
+  top: 342px;
+  width: 388px;
+}
+
+.basiccomponenttextfieldsstates .group-49-W58mWk {
+  background-color: transparent;
+  height: 106px;
+  left: 320px;
+  position: absolute;
+  top: 342px;
+  width: 388px;
+}
+
+.basiccomponenttextfieldsstates .group-50-W58mWk {
+  background-color: transparent;
+  height: 106px;
+  left: 708px;
+  position: absolute;
+  top: 478px;
+  width: 388px;
+}
+
+.basiccomponenttextfieldsstates .group-46-W58mWk {
+  background-color: transparent;
+  height: 106px;
+  left: 320px;
+  position: absolute;
+  top: 478px;
+  width: 388px;
+}
+
+.basiccomponenttextfieldsstates .web-sub-title-W58mWk {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstates .web-title-area-W58mWk {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstates .web-tab-service-e-basic-layout-W58mWk {
+  background-color: transparent;
+  height: 50px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstates .x3rd-depth-XGf38X {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponenttextfieldsstates .tab-XGf38X {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponenttextfieldsstates .basic-0uVLox {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.basiccomponenttextfieldsstates .autocomplete-text-f-0uVLox {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.basiccomponenttextfieldsstates .states-0uVLox {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.basiccomponenttextfieldsstates .lnb-favorite-card-W58mWk {
+  background-color: transparent;
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-JPPJAf {
+  background-color: var(--concrete);
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .background-JPPJAf {
+  background-color: var(--concrete);
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .stacked-group-JPPJAf {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-title-common-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose535 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose435 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponenttextfieldsstates .web-index-contents1dpethclose-aqn8XM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group1530 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1626 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1727 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1916 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group521 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group624 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group728 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group832 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group923 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1028 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1130 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group140 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group236 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group429 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group325 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose235 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose136 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethopenselected35 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose69 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponenttextfieldsstates .group-aqn8XM {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .empty-yoNnWx {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .line-copy-yoNnWx {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsstates .empty-skAOSF {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .web-index-title-common-mFD1xd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponenttextfieldsstates .line-JPPJAf {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponenttextfieldsstates .home-net-gui-guidelin-JPPJAf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponenttextfieldsstates .webgnb-W58mWk {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstates .rectangle-XJQj4I {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstates .background-XJQj4I {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponenttextfieldsstates .index-XJQj4I {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.basiccomponenttextfieldsstates .web-index-select-LXjZa4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.basiccomponenttextfieldsstates .web-index-unselect-LXjZa4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basiccomponenttextfieldsstates .web-index-unelectmain-XJQj4I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponenttextfieldsstates .logo-ReGjEu {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose535 */
+
+
+/* component - webindexcontents1dpethclose435 */
+
+
+/* component - group1530 */
+
+
+/* component - group1626 */
+
+
+/* component - group1727 */
+
+
+/* component - group1916 */
+
+
+/* component - group521 */
+
+
+/* component - group624 */
+
+
+/* component - group728 */
+
+
+/* component - group832 */
+
+
+/* component - group923 */
+
+
+/* component - group1028 */
+
+
+/* component - group1130 */
+
+
+/* component - group140 */
+
+
+/* component - group236 */
+
+
+/* component - group429 */
+
+
+/* component - group325 */
+
+
+/* component - webindexcontents1dpethclose235 */
+
+
+/* component - webindexcontents1dpethclose136 */
+
+
+/* component - webindexcontents1dpethopenselected35 */
+
+
+/* component - webindexcontents1dpethclose69 */
+
+

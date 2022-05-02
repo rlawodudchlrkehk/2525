@@ -1,0 +1,430 @@
+/* screen - c2coverviewlist */
+
+.c2coverviewlist {
+  background-color: var(--white);
+  height: 2498px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2coverviewlist .group-15-v4nbkH {
+  background-color: transparent;
+  height: 291px;
+  left: 400px;
+  position: absolute;
+  top: 441px;
+  width: 474px;
+}
+
+.c2coverviewlist .group-4-v4nbkH {
+  background-color: transparent;
+  height: 104px;
+  left: 400px;
+  position: absolute;
+  top: 789px;
+  width: 99px;
+}
+
+.c2coverviewlist .group-14-v4nbkH {
+  background-color: transparent;
+  height: 451px;
+  left: 320px;
+  position: absolute;
+  top: 1129px;
+  width: 554px;
+}
+
+.c2coverviewlist .group-9-v4nbkH {
+  background-color: transparent;
+  height: 207px;
+  left: 1090px;
+  position: absolute;
+  top: 342px;
+  width: 730px;
+}
+
+.c2coverviewlist .group-9-copy-v4nbkH {
+  background-color: transparent;
+  height: 207px;
+  left: 1090px;
+  position: absolute;
+  top: 1043px;
+  width: 730px;
+}
+
+.c2coverviewlist .group-8-v4nbkH {
+  background-color: transparent;
+  height: 568px;
+  left: 320px;
+  position: absolute;
+  top: 1730px;
+  width: 1500px;
+}
+
+.c2coverviewlist .group-10-v4nbkH {
+  background-color: transparent;
+  height: 194px;
+  left: 1090px;
+  position: absolute;
+  top: 649px;
+  width: 730px;
+}
+
+.c2coverviewlist .table-guide-title-v4nbkH {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 620px;
+}
+
+.c2coverviewlist .table-guide-title-nAUC5x {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 1043px;
+  width: 620px;
+}
+
+.c2coverviewlist .web-sub-title-v4nbkH {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2coverviewlist .web-title-area-v4nbkH {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2coverviewlist .web-tabc2-c-overview-v4nbkH {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2coverviewlist .x3rd-depth-2tcbUJ {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2coverviewlist .tab-2tcbUJ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2coverviewlist .image-hxILqw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 198px;
+}
+
+.c2coverviewlist .list-hxILqw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 23px;
+}
+
+.c2coverviewlist .image-AbJmOu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 145px;
+}
+
+.c2coverviewlist .lnb-service-feature-v4nbkH {
+  background-color: transparent;
+  height: 606px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewlist .rectangle-Xxx1Ar {
+  background-color: var(--concrete);
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewlist .background-Xxx1Ar {
+  background-color: var(--concrete);
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewlist .stacked-group-Xxx1Ar {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.c2coverviewlist .web-index-title-common-Cyt2no {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2coverviewlist .stacked-group-copy-Xxx1Ar {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 247px;
+  width: 320px;
+}
+
+.c2coverviewlist .web-index-title-common-NFv5ia {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose14 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose24 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose34 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose44 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose54 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2coverviewlist .line-Xxx1Ar {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2coverviewlist .line-copy-Xxx1Ar {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 230px;
+  width: 275px;
+}
+
+.c2coverviewlist .home-net-gui-guidelin-Xxx1Ar {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.c2coverviewlist .webgnb-v4nbkH {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewlist .rectangle-xdNpx7 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewlist .background-xdNpx7 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewlist .index-xdNpx7 {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.c2coverviewlist .web-index-unselect-nxWT75 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.c2coverviewlist .web-index-select-nxWT75 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2coverviewlist .web-index-select-xdNpx7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 513px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2coverviewlist .web-index-selectmain-xdNpx7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.c2coverviewlist .logo-dSXiEW {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose8 */
+
+
+/* component - webindexcontents1dpethclose14 */
+
+
+/* component - webindexcontents1dpethclose24 */
+
+
+/* component - webindexcontents1dpethclose34 */
+
+
+/* component - webindexcontents1dpethclose44 */
+
+
+/* component - webindexcontents1dpethclose54 */
+
+

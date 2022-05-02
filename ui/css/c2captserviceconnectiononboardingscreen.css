@@ -1,0 +1,2332 @@
+/* screen - c2captserviceconnectiononboardingscreen */
+
+.c2captserviceconnectiononboardingscreen {
+  background-color: var(--white);
+  height: 3457px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-4-61RgdL {
+  background-color: transparent;
+  height: 729px;
+  left: 420px;
+  position: absolute;
+  top: 470px;
+  width: 324px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-6-copy-xgMdur {
+  background-color: transparent;
+  height: 729px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 324px;
+}
+
+.c2captserviceconnectiononboardingscreen .ic-number-xgMdur {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 376px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-mFWAWD {
+  background-color: var(--puerto-rico);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .number-mFWAWD {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2captserviceconnectiononboardingscreen .ic-number-pKjocD {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 400px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-sgr5c3 {
+  background-color: var(--puerto-rico);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .number-sgr5c3 {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title-61RgdL {
+  background-color: transparent;
+  height: 78px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-5-61RgdL {
+  background-color: transparent;
+  height: 383px;
+  left: 1140px;
+  position: absolute;
+  top: 310px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-3-ZxMU6W {
+  background-color: transparent;
+  height: 295px;
+  left: 0px;
+  position: absolute;
+  top: 88px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-7-tSwPuF {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-0tpBfw {
+  background-color: transparent;
+  height: 31px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-svTiRC {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-svTiRC {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-MfpI7s {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-tGWhxQ {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-tGWhxQ {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line_-bold-0tpBfw {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-GteMWD {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-GteMWD {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-tSwPuF {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-V1eOoU {
+  background-color: transparent;
+  height: 73px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-ZqaqKR {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-ZqaqKR {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .content-BKalVz {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .title-BKalVz {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-CIKaAk {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-THcEVU {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-THcEVU {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line_-bold-V1eOoU {
+  background-color: transparent;
+  height: 73px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-xtZgdp {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-xtZgdp {
+  background-color: transparent;
+  height: 62px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .content-xc1p2k {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .title-xc1p2k {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-2-tSwPuF {
+  background-color: transparent;
+  height: 159px;
+  left: 0px;
+  position: absolute;
+  top: 136px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-copy-Z8NjWs {
+  background-color: transparent;
+  height: 93px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-XqPyQK {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-XqPyQK {
+  background-color: transparent;
+  height: 82px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .content-vsi5kd {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .title-vsi5kd {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-copy-2-Z8NjWs {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-ATqWX4 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-ATqWX4 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line_-bold-copy-Z8NjWs {
+  background-color: transparent;
+  height: 153px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-6xm57X {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-6xm57X {
+  background-color: transparent;
+  height: 142px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .content-b3ZMKO {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 82px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .title-b3ZMKO {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-17-ZxMU6W {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title-SToxdT {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-hl09vJ {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-hl09vJ {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title-gofaSg {
+  background-color: transparent;
+  height: 38px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-xN34jG {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-xN34jG {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title-iaRQq8 {
+  background-color: transparent;
+  height: 38px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-jC4rit {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-jC4rit {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .strings-table-ZxMU6W {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 399px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-sub_-title-61RgdL {
+  background-color: transparent;
+  height: 57px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 427px;
+}
+
+.c2captserviceconnectiononboardingscreen .sub-title-mV8T1o {
+  background-color: transparent;
+  height: 29px;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title_-disabled-divider-61RgdL {
+  background-color: transparent;
+  height: 82px;
+  left: 420px;
+  position: absolute;
+  top: 1349px;
+  width: 670px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-OEqwXs {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 670px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-OEqwXs {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 66px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: 658px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-6-61RgdL {
+  background-color: transparent;
+  height: 729px;
+  left: 420px;
+  position: absolute;
+  top: 1499px;
+  width: 324px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-5-kHAn1O {
+  background-color: transparent;
+  height: 729px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 324px;
+}
+
+.c2captserviceconnectiononboardingscreen .ic-number-kHAn1O {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 372px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-xSalaw {
+  background-color: var(--puerto-rico);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .number-xSalaw {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2captserviceconnectiononboardingscreen .ic-number-WOayxg {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 396px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-6O3bAy {
+  background-color: var(--puerto-rico);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .number-6O3bAy {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2captserviceconnectiononboardingscreen .ic-number-NuYkKm {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 456px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-M4ghxx {
+  background-color: var(--puerto-rico);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .number-M4ghxx {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2captserviceconnectiononboardingscreen .group-10-61RgdL {
+  background-color: transparent;
+  height: 321px;
+  left: 1140px;
+  position: absolute;
+  top: 1317px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-11-nSbEFF {
+  background-color: transparent;
+  height: 289px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-9-rZLXfv {
+  background-color: transparent;
+  height: 233px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-7-r3BVYD {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-Crsphz {
+  background-color: transparent;
+  height: 31px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-7cNuQS {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-7cNuQS {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-bcnzTC {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-jPhqt5 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-jPhqt5 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line_-bold-Crsphz {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-LOtPmH {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-LOtPmH {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-8-r3BVYD {
+  background-color: transparent;
+  height: 117px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-3lTQ3X {
+  background-color: transparent;
+  height: 71px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-UR1umx {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-UR1umx {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-uuKpPv {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-uqXuWD {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-uqXuWD {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line_-bold-3lTQ3X {
+  background-color: transparent;
+  height: 111px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-TBaCsI {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-TBaCsI {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 100px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-2-r3BVYD {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 174px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-copy-bcHxkw {
+  background-color: transparent;
+  height: 53px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-7LIdwI {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-7LIdwI {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .content-z7nFTj {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .title-z7nFTj {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-copy-2-bcHxkw {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-Hvwoqn {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-Hvwoqn {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line_-bold-copy-bcHxkw {
+  background-color: transparent;
+  height: 53px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-Dv9I5u {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-Dv9I5u {
+  background-color: transparent;
+  height: 42px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .content-G27WFK {
+  background-color: transparent;
+  color: var(--lochmara);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .title-G27WFK {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-17-rZLXfv {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title-gYHRqd {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-l68ixj {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-l68ixj {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title-vXBuMH {
+  background-color: transparent;
+  height: 38px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-tt0jTs {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-tt0jTs {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title-uSkHf2 {
+  background-color: transparent;
+  height: 38px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-DWgQGy {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-DWgQGy {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .strings-table-nSbEFF {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 399px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title_-disabled-divider-copy-61RgdL {
+  background-color: transparent;
+  height: 82px;
+  left: 420px;
+  position: absolute;
+  top: 2378px;
+  width: 670px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-oKG7uO {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 670px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-oKG7uO {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 66px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: 658px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-12-61RgdL {
+  background-color: transparent;
+  height: 729px;
+  left: 420px;
+  position: absolute;
+  top: 2528px;
+  width: 324px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-6-xXaUR3 {
+  background-color: transparent;
+  height: 729px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 324px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-2-xXaUR3 {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 376px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .ic-number-4atG9S {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-tuh4kJ {
+  background-color: var(--puerto-rico);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .number-tuh4kJ {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2captserviceconnectiononboardingscreen .ic-number-LMEinc {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 24px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-y1xcuo {
+  background-color: var(--puerto-rico);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.c2captserviceconnectiononboardingscreen .number-y1xcuo {
+  background-color: transparent;
+  color: var(--white);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.c2captserviceconnectiononboardingscreen .group-10-copy-61RgdL {
+  background-color: transparent;
+  height: 232px;
+  left: 1140px;
+  position: absolute;
+  top: 2345px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-11-9HwtfW {
+  background-color: transparent;
+  height: 200px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-9-LHxXfG {
+  background-color: transparent;
+  height: 144px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-7-xODaSM {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-hRxRRc {
+  background-color: transparent;
+  height: 31px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-j0Th5x {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-j0Th5x {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-LUxCxc {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-KMg3Zt {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-KMg3Zt {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line_-bold-hRxRRc {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-HhIQB5 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-HhIQB5 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-8-xODaSM {
+  background-color: transparent;
+  height: 97px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-hq6ETs {
+  background-color: transparent;
+  height: 51px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-Sv260Q {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-Sv260Q {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line-PZCOTz {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-ASGQxc {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-ASGQxc {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-text1line_-bold-hq6ETs {
+  background-color: transparent;
+  height: 91px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-so0AN8 {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .contents-so0AN8 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 400;
+  height: 80px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .group-17-LHxXfG {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title-5dMEky {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-ikezwg {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-ikezwg {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title-r6Bx3g {
+  background-color: transparent;
+  height: 38px;
+  left: 375px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-PAFz9X {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-PAFz9X {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-guide-title-b74QcH {
+  background-color: transparent;
+  height: 38px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-TYfUrf {
+  background-color: var(--black);
+  height: 1px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.c2captserviceconnectiononboardingscreen .table-title-text-TYfUrf {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 293px;
+}
+
+.c2captserviceconnectiononboardingscreen .strings-table-9HwtfW {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 399px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-title-area-61RgdL {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: absolute;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-tabc2-c-connector_-61RgdL {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: absolute;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingscreen .x3rd-depth-yxGBr3 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingscreen .tab-Qht1R3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2captserviceconnectiononboardingscreen .overview-1NIOCl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 56px;
+}
+
+.c2captserviceconnectiononboardingscreen .onboarding-start-p-1NIOCl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.c2captserviceconnectiononboardingscreen .onboarding-1NIOCl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 191px;
+}
+
+.c2captserviceconnectiononboardingscreen .onboarding-welcome-1NIOCl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 169px;
+}
+
+.c2captserviceconnectiononboardingscreen .interaction-flow-1NIOCl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.c2captserviceconnectiononboardingscreen .lnbc2-c-connector_1-61RgdL {
+  background-color: transparent;
+  height: 758px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-YxWWxL {
+  background-color: var(--concrete);
+  height: 758px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .lnb-YxWWxL {
+  background-color: transparent;
+  height: 758px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-BwyDFf {
+  background-color: var(--concrete);
+  height: 620px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .stacked-group-BwyDFf {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-title-common-veGsLN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .empty-veGsLN {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .line-copy-veGsLN {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 0.2;
+  position: relative;
+  width: 275px;
+}
+
+.c2captserviceconnectiononboardingscreen .empty-XNUzGf {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-title-reference-veGsLN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2captserviceconnectiononboardingscreen .empty-copy-2-veGsLN {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .line-copy-2-veGsLN {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 0.2;
+  position: relative;
+  width: 275px;
+}
+
+.c2captserviceconnectiononboardingscreen .empty-copy-veGsLN {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-title-reference-copy-veGsLN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-contents1d-veGsLN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-contents1d-XNUzGf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-contents1d-yjUBEB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-contents1dpeth_open_selected-veGsLN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-contents1dpeth_close-copy-5-veGsLN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-contents1dpeth_close-copy-3-veGsLN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-contents1dpeth_close-copy-6-veGsLN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-contents1dpeth_close-copy-2-veGsLN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingscreen .line-BwyDFf {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2captserviceconnectiononboardingscreen .home-net-ui-guideline-YxWWxL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2captserviceconnectiononboardingscreen .webgnb-61RgdL {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingscreen .rectangle-y8CChU {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingscreen .background-y8CChU {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingscreen .index-y8CChU {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-select-4NtWos {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-unselect-4NtWos {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.c2captserviceconnectiononboardingscreen .web-index-unelect_main-y8CChU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

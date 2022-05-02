@@ -1,0 +1,540 @@
+/* screen - c2caccesstokenserviceplugin */
+
+.c2caccesstokenserviceplugin {
+  background-color: var(--white);
+  height: 3297px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2caccesstokenserviceplugin .group-9-Y7kwzR {
+  background-color: transparent;
+  height: 162px;
+  left: 1090px;
+  position: absolute;
+  top: 2456px;
+  width: 730px;
+}
+
+.c2caccesstokenserviceplugin .group-8-NDkVs6 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.c2caccesstokenserviceplugin .table-guide-text1line-tM4S6I {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2caccesstokenserviceplugin .table-guide-text1line-d4ZONL {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.c2caccesstokenserviceplugin .table-guide-text2linem-tM4S6I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.c2caccesstokenserviceplugin .group-12-copy-3-NDkVs6 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 730px;
+}
+
+.c2caccesstokenserviceplugin .group-6-NDkVs6 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.c2caccesstokenserviceplugin .group-4-Y7kwzR {
+  background-color: transparent;
+  height: 140px;
+  left: 1090px;
+  position: absolute;
+  top: 2718px;
+  width: 730px;
+}
+
+.c2caccesstokenserviceplugin .group-7-Y7kwzR {
+  background-color: transparent;
+  height: 93px;
+  left: 1090px;
+  position: absolute;
+  top: 342px;
+  width: 730px;
+}
+
+.c2caccesstokenserviceplugin .group-3-gPtdYp {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.c2caccesstokenserviceplugin .table-guide-text1line-zMEhuY {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2caccesstokenserviceplugin .table-guide-text1line-H0888X {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.c2caccesstokenserviceplugin .table-guide-text2linem-zMEhuY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.c2caccesstokenserviceplugin .group-6-gPtdYp {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.c2caccesstokenserviceplugin .group-Y7kwzR {
+  background-color: transparent;
+  height: 801px;
+  left: 400px;
+  position: absolute;
+  top: 448px;
+  width: 380px;
+}
+
+.c2caccesstokenserviceplugin .group-2-Y7kwzR {
+  background-color: transparent;
+  height: 801px;
+  left: 400px;
+  position: absolute;
+  top: 1505px;
+  width: 380px;
+}
+
+.c2caccesstokenserviceplugin .group-5-Y7kwzR {
+  background-color: transparent;
+  height: 542px;
+  left: 400px;
+  position: absolute;
+  top: 2557px;
+  width: 504px;
+}
+
+.c2caccesstokenserviceplugin .web-sub-title-Y7kwzR {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2caccesstokenserviceplugin .table-guide-title-Y7kwzR {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 2456px;
+  width: 620px;
+}
+
+.c2caccesstokenserviceplugin .table-guide-title-t0gvyZ {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 620px;
+}
+
+.c2caccesstokenserviceplugin .web-title-area-Y7kwzR {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2caccesstokenserviceplugin .table-guide-tit-isabled-divider-Y7kwzR {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 1399px;
+  width: 295px;
+}
+
+.c2caccesstokenserviceplugin .web-tabc2-c-access-token-Y7kwzR {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2caccesstokenserviceplugin .x3rd-depth-tKvDj3 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2caccesstokenserviceplugin .tab-tKvDj3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2caccesstokenserviceplugin .life-tab-device-tab-VoVFBY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 264px;
+}
+
+.c2caccesstokenserviceplugin .partner-refresh-toke-VoVFBY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 207px;
+}
+
+.c2caccesstokenserviceplugin .st-refresh-token-inv-VoVFBY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 175px;
+}
+
+.c2caccesstokenserviceplugin .service-plugin-VoVFBY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 88px;
+}
+
+.c2caccesstokenserviceplugin .lnb-service-feature-Y7kwzR {
+  background-color: transparent;
+  height: 606px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2caccesstokenserviceplugin .rectangle-X3mzl2 {
+  background-color: var(--concrete);
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2caccesstokenserviceplugin .background-X3mzl2 {
+  background-color: var(--concrete);
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2caccesstokenserviceplugin .stacked-group-X3mzl2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.c2caccesstokenserviceplugin .web-index-title-common-EuUh4e {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2caccesstokenserviceplugin .stacked-group-copy-X3mzl2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 247px;
+  width: 320px;
+}
+
+.c2caccesstokenserviceplugin .web-index-title-common-5Dmm6Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose61 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose119 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose218 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose318 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose418 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose518 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2caccesstokenserviceplugin .line-X3mzl2 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2caccesstokenserviceplugin .line-copy-X3mzl2 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 230px;
+  width: 275px;
+}
+
+.c2caccesstokenserviceplugin .home-net-gui-guidelin-X3mzl2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.c2caccesstokenserviceplugin .webgnb-Y7kwzR {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2caccesstokenserviceplugin .rectangle-8KoIxe {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2caccesstokenserviceplugin .background-8KoIxe {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2caccesstokenserviceplugin .index-8KoIxe {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.c2caccesstokenserviceplugin .web-index-unselect-tLObMg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.c2caccesstokenserviceplugin .web-index-select-tLObMg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2caccesstokenserviceplugin .web-index-select-8KoIxe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 513px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2caccesstokenserviceplugin .web-index-selectmain-8KoIxe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.c2caccesstokenserviceplugin .logo-KPf3ss {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose61 */
+
+
+/* component - webindexcontents1dpethclose119 */
+
+
+/* component - webindexcontents1dpethclose218 */
+
+
+/* component - webindexcontents1dpethclose318 */
+
+
+/* component - webindexcontents1dpethclose418 */
+
+
+/* component - webindexcontents1dpethclose518 */
+
+

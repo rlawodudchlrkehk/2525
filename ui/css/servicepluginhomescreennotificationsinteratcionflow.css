@@ -1,0 +1,607 @@
+/* screen - servicepluginhomescreennotificationsinteratcionflow */
+
+.servicepluginhomescreennotificationsinteratcionflow {
+  background-color: var(--white);
+  height: 2181px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .group-2-3Gb9OD {
+  background-color: transparent;
+  height: 767px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .group-3-3Gb9OD {
+  background-color: transparent;
+  height: 780px;
+  left: 420px;
+  position: absolute;
+  top: 1201px;
+  width: 1400px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-title-area-3Gb9OD {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-tab-service-plug-in_-home-screen-3Gb9OD {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .x3rd-depth-zsgMQ6 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .tab-N3vn1E {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .service-feature-RerxnS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 93px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .basic-RerxnS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 33px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .banner-app-link-RerxnS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .feature-RerxnS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .interaction-flow-copy-4-RerxnS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .notifications-_-feat-RerxnS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 141px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .notifications-_-inte-RerxnS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 196px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .help-_-guide-text-RerxnS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 107px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .help-guide-RerxnS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 67px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .lnb-service-plug-in-3Gb9OD {
+  background-color: transparent;
+  height: 1540px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .rectangle-PfVZtE {
+  background-color: var(--concrete);
+  height: 1540px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .lnb-PfVZtE {
+  background-color: transparent;
+  height: 1540px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .stacked-group-5y1a6M {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-title-common-uLxF7a {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-uLxF7a {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-evmgBu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-a4hUU7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-6UClft {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-hzLlfK {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-YtbxAj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-snE8oM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .group-uLxF7a {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .empty-hHd0JP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .line-copy-hHd0JP {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .empty-xSsMur {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-title-reference-uLxF7a {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-PndrI5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-NZidPP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-ZOfrnH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_close-lTn0Xx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents1dpeth_open_selected-uLxF7a {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-uLxF7a {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-evmgBu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-a4hUU7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-6UClft {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-hzLlfK {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-YtbxAj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-snE8oM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-PndrI5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-NZidPP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-ZOfrnH {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-copy-2-uLxF7a {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-copy-uLxF7a {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-contents2dpeth-lTn0Xx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .group-evmgBu {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .empty-oHljtq {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .line-copy-oHljtq {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .empty-GaVCBh {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-title-reference-evmgBu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .line-5y1a6M {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .home-net-ui-guideline-5y1a6M {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .webgnb-3Gb9OD {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .rectangle-G3XNft {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .background-G3XNft {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .index-G3XNft {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-select-U319UI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-unselect-U319UI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-index-unelect_main-G3XNft {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .logo-Gex74H {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

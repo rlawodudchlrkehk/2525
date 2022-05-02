@@ -1,0 +1,367 @@
+/* screen - commontouchinteraction */
+
+.commontouchinteraction {
+  background-color: var(--white);
+  height: 1233px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.commontouchinteraction .bodytest-uAJgKg {
+  background-color: transparent;
+  height: 899px;
+  left: 420px;
+  position: absolute;
+  top: 234px;
+  width: 1400px;
+}
+
+.commontouchinteraction .bodytest-jr73eC {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.commontouchinteraction .lnb-history-uAJgKg {
+  background-color: transparent;
+  height: 988px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.commontouchinteraction .rectangle-vWLKxt {
+  background-color: var(--concrete);
+  height: 988px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.commontouchinteraction .background-vWLKxt {
+  background-color: var(--concrete);
+  height: 947px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.commontouchinteraction .stacked-group-vWLKxt {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-title-common-H0c63R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-H0c63R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-xhx00x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-M9qSRY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-7e3nvx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-ToLhzs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-fxM5TD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-6X7yLP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .empty-H0c63R {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .line-copy-H0c63R {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 0.2;
+  position: relative;
+  width: 275px;
+}
+
+.commontouchinteraction .empty-xhx00x {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-title-reference-H0c63R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-Bxxx5c {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-pFIzOI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-kOPZxY {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-yICjic {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-OWH56x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-contents1dpeth_close-vftVHD {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .group-H0c63R {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.commontouchinteraction .empty-IFliaj {
+  background-color: var(--concrete);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.commontouchinteraction .line-copy-IFliaj {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.commontouchinteraction .empty-WWdDY8 {
+  background-color: var(--concrete);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.commontouchinteraction .web-index-title-reference-xhx00x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.commontouchinteraction .line-vWLKxt {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.commontouchinteraction .home-net-ui-guideline-vWLKxt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.commontouchinteraction .webgnb-uAJgKg {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.commontouchinteraction .rectangle-vpOKzr {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.commontouchinteraction .background-vpOKzr {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.commontouchinteraction .index-vpOKzr {
+  background-color: transparent;
+  height: 64px;
+  left: 429px;
+  position: absolute;
+  top: 0px;
+  width: 115px;
+}
+
+.commontouchinteraction .web-index-select-ctPhII {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.commontouchinteraction .web-index-unselect-ctPhII {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.commontouchinteraction .web-index-unelect_main-vpOKzr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.commontouchinteraction .logo-jArWBH {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

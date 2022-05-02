@@ -1,0 +1,358 @@
+/* screen - a00commonmain */
+
+.a00commonmain {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.a00commonmain .bodytest-WYoygW {
+  background-color: transparent;
+  height: 764px;
+  left: 417px;
+  position: absolute;
+  top: 112px;
+  width: 768px;
+}
+
+.a00commonmain .lnb-history-WYoygW {
+  background-color: transparent;
+  height: 988px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.a00commonmain .rectangle-fW4zpZ {
+  background-color: var(--concrete);
+  height: 988px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.a00commonmain .background-fW4zpZ {
+  background-color: var(--concrete);
+  height: 947px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.a00commonmain .stacked-group-fW4zpZ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.a00commonmain .web-index-title-common-MrSc9F {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-MrSc9F {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-lR3oOE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-rmxNx0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-10Ol8J {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-cHmtQ3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-K60twv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-WMdMuG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .empty-MrSc9F {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .line-copy-MrSc9F {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 0.2;
+  position: relative;
+  width: 275px;
+}
+
+.a00commonmain .empty-lR3oOE {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-title-reference-MrSc9F {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-jBIBwN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-6dalrt {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-83Om32 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-IxWpYv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-amUx1R {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .web-index-contents1dpeth_close-3QkfZB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .group-MrSc9F {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.a00commonmain .empty-pwwIL8 {
+  background-color: var(--concrete);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.a00commonmain .line-copy-pwwIL8 {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.a00commonmain .empty-DqqvsH {
+  background-color: var(--concrete);
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.a00commonmain .web-index-title-reference-lR3oOE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.a00commonmain .line-fW4zpZ {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.a00commonmain .home-net-ui-guideline-fW4zpZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.a00commonmain .webgnb-WYoygW {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.a00commonmain .rectangle-B9kxLJ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.a00commonmain .background-B9kxLJ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.a00commonmain .index-B9kxLJ {
+  background-color: transparent;
+  height: 64px;
+  left: 429px;
+  position: absolute;
+  top: 0px;
+  width: 115px;
+}
+
+.a00commonmain .web-index-select-i9Ajjy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.a00commonmain .web-index-unselect-i9Ajjy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.a00commonmain .web-index-unelect_main-B9kxLJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.a00commonmain .logo-8yGEDJ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

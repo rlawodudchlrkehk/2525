@@ -1,0 +1,557 @@
+/* screen - c2cconnectedstrongmancard */
+
+.c2cconnectedstrongmancard {
+  background-color: var(--white);
+  height: 1250px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cconnectedstrongmancard .group-5-NZd2UG {
+  background-color: transparent;
+  height: 488px;
+  left: 1090px;
+  position: absolute;
+  top: 295px;
+  width: 730px;
+}
+
+.c2cconnectedstrongmancard .group-12-xjmiGq {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 103px;
+  width: 730px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-I2Q3ew {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1linemint-I2Q3ew {
+  background-color: transparent;
+  height: 31px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.c2cconnectedstrongmancard .rectangle-CABuSh {
+  background-color: #000000;
+  height: 1px;
+  left: 0px;
+  opacity: 0.08;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.c2cconnectedstrongmancard .title-CABuSh {
+  background-color: transparent;
+  color: #00b0a6;
+  font-style: normal;
+  font-weight: 600;
+  height: 20px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 388px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-ez1Cju {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.c2cconnectedstrongmancard .group-3-xjmiGq {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 730px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-yxkH41 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-VD7GiK {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text2linem-yxkH41 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.c2cconnectedstrongmancard .group-12-copy-5-xjmiGq {
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  position: absolute;
+  top: 197px;
+  width: 730px;
+}
+
+.c2cconnectedstrongmancard .group-12-copy-3-xjmiGq {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 360px;
+  width: 730px;
+}
+
+.c2cconnectedstrongmancard .group-12-copy-6-xjmiGq {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 291px;
+  width: 730px;
+}
+
+.c2cconnectedstrongmancard .group-12-copy-4-xjmiGq {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 429px;
+  width: 730px;
+}
+
+.c2cconnectedstrongmancard .group-6-xjmiGq {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 47px;
+  width: 730px;
+}
+
+.c2cconnectedstrongmancard .strong-man-gui-xjmiGq {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 232px;
+}
+
+.c2cconnectedstrongmancard .group-4-NZd2UG {
+  background-color: transparent;
+  height: 190px;
+  left: 1090px;
+  position: absolute;
+  top: 883px;
+  width: 730px;
+}
+
+.c2cconnectedstrongmancard .group-NZd2UG {
+  background-color: transparent;
+  height: 383px;
+  left: 400px;
+  position: absolute;
+  top: 378px;
+  width: 588px;
+}
+
+.c2cconnectedstrongmancard .web-sub-title-NZd2UG {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2cconnectedstrongmancard .table-guide-title-NZd2UG {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 620px;
+}
+
+.c2cconnectedstrongmancard .web-title-area-NZd2UG {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2cconnectedstrongmancard .web-tabc2-capa-rvide-connected-NZd2UG {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2cconnectedstrongmancard .x3rd-depth-dv1NIx {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2cconnectedstrongmancard .tab-dv1NIx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .overview-SBlyfO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 58px;
+}
+
+.c2cconnectedstrongmancard .onboardingstart-pag-SBlyfO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2cconnectedstrongmancard .onboardingstart-pag-yVa0tB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 193px;
+}
+
+.c2cconnectedstrongmancard .onboarding-welcome-p-SBlyfO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 171px;
+}
+
+.c2cconnectedstrongmancard .onboarding-strongman-SBlyfO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 181px;
+}
+
+.c2cconnectedstrongmancard .lnb-service-feature-NZd2UG {
+  background-color: transparent;
+  height: 606px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedstrongmancard .rectangle-ISxqFq {
+  background-color: var(--concrete);
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedstrongmancard .background-ISxqFq {
+  background-color: var(--concrete);
+  height: 569px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedstrongmancard .stacked-group-ISxqFq {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.c2cconnectedstrongmancard .web-index-title-common-hiL2J7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2cconnectedstrongmancard .stacked-group-copy-ISxqFq {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 247px;
+  width: 320px;
+}
+
+.c2cconnectedstrongmancard .web-index-title-common-OtYNfg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose13 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose23 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose33 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose43 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose53 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2cconnectedstrongmancard .line-ISxqFq {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2cconnectedstrongmancard .line-copy-ISxqFq {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 230px;
+  width: 275px;
+}
+
+.c2cconnectedstrongmancard .home-net-gui-guidelin-ISxqFq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.c2cconnectedstrongmancard .webgnb-NZd2UG {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedstrongmancard .rectangle-FzLInB {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedstrongmancard .background-FzLInB {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedstrongmancard .index-FzLInB {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.c2cconnectedstrongmancard .web-index-unselect-Dtj8ME {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.c2cconnectedstrongmancard .web-index-select-Dtj8ME {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2cconnectedstrongmancard .web-index-select-FzLInB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 513px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2cconnectedstrongmancard .web-index-selectmain-FzLInB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.c2cconnectedstrongmancard .logo-ZKxor1 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose7 */
+
+
+/* component - webindexcontents1dpethclose13 */
+
+
+/* component - webindexcontents1dpethclose23 */
+
+
+/* component - webindexcontents1dpethclose33 */
+
+
+/* component - webindexcontents1dpethclose43 */
+
+
+/* component - webindexcontents1dpethclose53 */
+
+

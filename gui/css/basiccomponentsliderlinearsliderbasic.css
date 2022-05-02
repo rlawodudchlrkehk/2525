@@ -1,0 +1,674 @@
+/* screen - basiccomponentsliderlinearsliderbasic */
+
+.basiccomponentsliderlinearsliderbasic {
+  background-color: var(--white);
+  height: 1892px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-13-xVUMgA {
+  background-color: transparent;
+  height: 157px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 621px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-11-xVUMgA {
+  background-color: transparent;
+  height: 156px;
+  left: 421px;
+  position: absolute;
+  top: 649px;
+  width: 382px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-7-xVUMgA {
+  background-color: transparent;
+  height: 163px;
+  left: 421px;
+  position: absolute;
+  top: 955px;
+  width: 422px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-5-xVUMgA {
+  background-color: transparent;
+  height: 255px;
+  left: 382px;
+  position: absolute;
+  top: 1312px;
+  width: 658px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-23-xVUMgA {
+  background-color: transparent;
+  height: 140px;
+  left: 1089px;
+  position: absolute;
+  top: 1552px;
+  width: 731px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-17-xVUMgA {
+  background-color: transparent;
+  height: 140px;
+  left: 1089px;
+  position: absolute;
+  top: 1312px;
+  width: 731px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-8-0aLKui {
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 731px;
+}
+
+.basiccomponentsliderlinearsliderbasic .table-guide-text1line-OIK56q {
+  background-color: transparent;
+  height: 37px;
+  left: 471px;
+  position: absolute;
+  top: 47px;
+  width: 260px;
+}
+
+.basiccomponentsliderlinearsliderbasic .table-guide-text2linem-OIK56q {
+  background-color: transparent;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 47px;
+  width: 401px;
+}
+
+.basiccomponentsliderlinearsliderbasic .table-guide-text1line-neVBuR {
+  background-color: transparent;
+  height: 37px;
+  left: 471px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.basiccomponentsliderlinearsliderbasic .table-guide-text1line-xO66vs {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.basiccomponentsliderlinearsliderbasic .table-guide-text2linem-neVBuR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 401px;
+}
+
+.basiccomponentsliderlinearsliderbasic .descriptiontabletop-0aLKui {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 731px;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-16-xVUMgA {
+  background-color: transparent;
+  height: 625px;
+  left: 1088px;
+  position: absolute;
+  top: 342px;
+  width: 730px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-sub-title-xVUMgA {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-title-area-xVUMgA {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-tab-service-e-basic-layout-xVUMgA {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.basiccomponentsliderlinearsliderbasic .x3rd-depth-8TRxFS {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.basiccomponentsliderlinearsliderbasic .tab-8TRxFS {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.basiccomponentsliderlinearsliderbasic .linear-slider--basi-LBcgAn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 123px;
+}
+
+.basiccomponentsliderlinearsliderbasic .service-feature-type-LBcgAn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 113px;
+}
+
+.basiccomponentsliderlinearsliderbasic .lnb-favorite-card-xVUMgA {
+  background-color: transparent;
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .rectangle-t44XHE {
+  background-color: var(--concrete);
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .background-t44XHE {
+  background-color: var(--concrete);
+  height: 1315px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .stacked-group-t44XHE {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-title-common-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose516 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose416 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-contents1dpethclose-aTwYnj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group1813 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group198 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group206 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group219 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group69 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group815 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group98 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1012 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1212 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1413 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group1513 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group60 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group218 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group413 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group312 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose216 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose117 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethopenselected16 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose34 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.basiccomponentsliderlinearsliderbasic .group-aTwYnj {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .empty-GlCdxa {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .line-copy-GlCdxa {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.basiccomponentsliderlinearsliderbasic .empty-amFzwd {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-title-common-5EZEhs {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.basiccomponentsliderlinearsliderbasic .line-t44XHE {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.basiccomponentsliderlinearsliderbasic .home-net-gui-guidelin-t44XHE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.basiccomponentsliderlinearsliderbasic .webgnb-xVUMgA {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderlinearsliderbasic .rectangle-HDfYQs {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderlinearsliderbasic .background-HDfYQs {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.basiccomponentsliderlinearsliderbasic .index-HDfYQs {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-select-61cwsB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-unselect-61cwsB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.basiccomponentsliderlinearsliderbasic .web-index-unelectmain-HDfYQs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.basiccomponentsliderlinearsliderbasic .logo-DZYBHp {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose516 */
+
+
+/* component - webindexcontents1dpethclose416 */
+
+
+/* component - group1813 */
+
+
+/* component - group198 */
+
+
+/* component - group206 */
+
+
+/* component - group219 */
+
+
+/* component - group69 */
+
+
+/* component - group815 */
+
+
+/* component - group98 */
+
+
+/* component - group1012 */
+
+
+/* component - group1212 */
+
+
+/* component - group1413 */
+
+
+/* component - group1513 */
+
+
+/* component - group60 */
+
+
+/* component - group218 */
+
+
+/* component - group413 */
+
+
+/* component - group312 */
+
+
+/* component - webindexcontents1dpethclose216 */
+
+
+/* component - webindexcontents1dpethclose117 */
+
+
+/* component - webindexcontents1dpethopenselected16 */
+
+
+/* component - webindexcontents1dpethclose34 */
+
+

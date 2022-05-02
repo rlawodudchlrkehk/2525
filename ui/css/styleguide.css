@@ -1,0 +1,440 @@
+:root { 
+  --baby-powder: #fcfcfc;
+  --black: #000000;
+  --black-2: #00000080;
+  --concrete: #f2f2f2;
+  --dodger-blue: #3e91ff;
+  --gravel: #4a494a;
+  --gray: #909090;
+  --licorice: #121212;
+  --lochmara: #0070c0;
+  --masala: #3b3b3b;
+  --mercury: #e6e6e6;
+  --navy-blue: #127bdf;
+  --persian-green: #00b0a6;
+  --puerto-rico: #33c0b8;
+  --quick-silver: #a5a5a5;
+  --quill-gray: #d6d6d6;
+  --razzle-dazzle-rose: #ff39c133;
+  --science-blue: #0072de;
+  --shark: #252525;
+  --sonic-silver: #747474;
+  --suva-gray: #878787;
+  --white: #ffffff;
+ 
+  --font-size-13px: 13px;
+  --font-size-18px: 18px;
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-s: 12.3px;
+  --font-size-xs: 12px;
+  --font-size-xxs: 10.6px;
+  --font-size-xxxs: 10.4px;
+  --font-size-xxxxs: 8.3px;
+ 
+  --font-family-applesdgothicneo-bold: "AppleSDGothicNeo-Bold", Helvetica;
+  --font-family-applesdgothicneo-extrabold: "AppleSDGothicNeo-ExtraBold", Helvetica;
+  --font-family-applesdgothicneo-medium: "AppleSDGothicNeo-Medium", Helvetica;
+  --font-family-applesdgothicneo-regular: "AppleSDGothicNeo-Regular", Helvetica;
+  --font-family-applesdgothicneo-semibold: "AppleSDGothicNeo-SemiBold", Helvetica;
+  --font-family-arialmt: "ArialMT", Helvetica;
+  --font-family-helvetica: "Helvetica", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+  --font-family-samsungone-400: "SamsungOne-400", Helvetica;
+  --font-family-samsungonekorean-400: "SamsungOneKorean-400", Helvetica;
+  --font-family-samsungonekorean-600: "SamsungOneKorean-600", Helvetica;
+  --font-family-samsungonekorean-700: "SamsungOneKorean-700", Helvetica;
+  --font-family-samsungoneui-700: "SamsungOneUI-700", Helvetica;
+}
+.tableguidetitle {
+  font-family: var(--font-family-samsungonekorean-700);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.screenkeyscreencontents {
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.light06listssub {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-13px);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.3px;
+}
+
+.tableguidetextmint {
+  font-family: var(--font-family-samsungonekorean-600);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.light01actionbarbottomtxtgray {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-18px);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.servicecardheadertitle {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.samsungonekorean-400-normal-black-12-3px {
+  color: var(--black);
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-light-black-10-6px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-white-12-3px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.samsungonekorean-400-normal-black-12-3px-2 {
+  color: var(--black);
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-light-white-12-3px-2 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-white-9px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.samsungonekorean-600-semi-bold-puerto-rico-10px {
+  color: var(--puerto-rico);
+  font-family: var(--font-family-samsungonekorean-600);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-light-white-5-4px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 5.4px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-normal-gray-10-4px {
+  color: var(--gray);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-shark-14-4px {
+  color: var(--shark);
+  font-family: var(--font-family-roboto);
+  font-size: 14.4px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-black-13px {
+  color: var(--black-2);
+  font-family: var(--font-family-roboto);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.samsungonekorean-400-normal-black-10-3px {
+  color: var(--black);
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: 10.3px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.samsungonekorean-600-semi-bold-licorice-8-3px {
+  color: var(--licorice);
+  font-family: var(--font-family-samsungonekorean-600);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-medium-shark-7-8px {
+  color: var(--shark);
+  font-family: var(--font-family-roboto);
+  font-size: 7.8px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.roboto-light-shark-14px {
+  color: var(--shark);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.samsungonekorean-400-normal-licorice-12-3px {
+  color: var(--licorice);
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.samsungonekorean-700-bold-white-14-1px {
+  color: var(--white);
+  font-family: var(--font-family-samsungonekorean-700);
+  font-size: 14.1px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.samsungonekorean-700-bold-white-14-1px-2 {
+  color: var(--white);
+  font-family: var(--font-family-samsungonekorean-700);
+  font-size: 14.1px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.samsungonekorean-400-normal-licorice-12-3px-2 {
+  color: var(--licorice);
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-light-black-7-1px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 7.1px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-white-8-3px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-normal-black-7-7px {
+  color: var(--black-2);
+  font-family: var(--font-family-roboto);
+  font-size: 7.7px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-light-shark-8-3px {
+  color: var(--shark);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.samsungone-400-normal-black-8-5px {
+  color: var(--black);
+  font-family: var(--font-family-samsungone-400);
+  font-size: 8.5px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-light-black-7-8px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 7.8px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-black-9-1px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 9.1px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-white-9-1px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 9.1px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.applesdgothicneo-normal-black-8-5px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneo-semibold);
+  font-size: 8.5px;
+}
+
+.roboto-normal-gray-9-6px {
+  color: var(--gray);
+  font-family: var(--font-family-roboto);
+  font-size: 9.6px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-medium-shark-13-6px {
+  color: var(--shark);
+  font-family: var(--font-family-roboto);
+  font-size: 13.6px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.samsungonekorean-700-bold-white-11-8px {
+  color: var(--white);
+  font-family: var(--font-family-samsungonekorean-700);
+  font-size: 11.8px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.samsungonekorean-600-semi-bold-white-13-9px {
+  color: var(--white);
+  font-family: var(--font-family-samsungonekorean-600);
+  font-size: 13.9px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-light-black-8-8px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 8.8px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-white-10-3px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 10.3px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.samsungonekorean-400-normal-licorice-10-3px {
+  color: var(--licorice);
+  font-family: var(--font-family-samsungonekorean-400);
+  font-size: 10.3px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-shark-15-2px {
+  color: var(--shark);
+  font-family: var(--font-family-roboto);
+  font-size: 15.2px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneo-normal-navy-blue-16-8px {
+  color: var(--navy-blue);
+  font-family: var(--font-family-applesdgothicneo-bold);
+  font-size: 16.8px;
+}
+
+.applesdgothicneo-extra-normal-black-11-4px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneo-extrabold);
+  font-size: 11.4px;
+}
+
+.border-0-9px-quick-silver {
+  border: 0.9px solid var(--quick-silver);
+}
+
+.border-1px-quick-silver {
+  border: 1px solid var(--quick-silver);
+}
+
+.border-0-5px-quill-gray {
+  border: 0.5px solid var(--quill-gray);
+}
+
+.border-1px-puerto-rico {
+  border: 1px solid var(--puerto-rico);
+}
+
+.border-0-7px-quick-silver {
+  border: 0.7px solid var(--quick-silver);
+}
+
+.border-0-9px-suva-gray {
+  border: 0.9px solid var(--suva-gray);
+}
+
+.border-1px-suva-gray {
+  border: 1px solid var(--suva-gray);
+}
+
+.border-0-7px-suva-gray {
+  border: 0.7px solid var(--suva-gray);
+}
+
+.border-0-5px-gravel {
+  border: 0.5px solid var(--gravel);
+}

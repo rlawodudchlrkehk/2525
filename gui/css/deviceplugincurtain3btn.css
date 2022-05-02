@@ -1,0 +1,781 @@
+/* screen - deviceplugincurtain3btn */
+
+.deviceplugincurtain3btn {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1832px;
+  min-width: 1920px;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.deviceplugincurtain3btn .group-4-UtA564 {
+  background-color: transparent;
+  height: 175px;
+  left: 400px;
+  position: absolute;
+  top: 1456px;
+  width: 430px;
+}
+
+.deviceplugincurtain3btn .group-UtA564 {
+  background-color: transparent;
+  height: 760px;
+  left: 400px;
+  position: absolute;
+  top: 398px;
+  width: 380px;
+}
+
+.deviceplugincurtain3btn .group-9-UtA564 {
+  background-color: transparent;
+  height: 274px;
+  left: 1090px;
+  position: absolute;
+  top: 1358px;
+  width: 730px;
+}
+
+.deviceplugincurtain3btn .descriptiontable2line-JDzuA7 {
+  background-color: transparent;
+  height: 109px;
+  left: 0px;
+  position: absolute;
+  top: 165px;
+  width: 730px;
+}
+
+.deviceplugincurtain3btn .table-guide-text1line-7Fj9Mr {
+  background-color: transparent;
+  height: 59px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.deviceplugincurtain3btn .table-guide-text2line-7Fj9Mr {
+  background-color: transparent;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.deviceplugincurtain3btn .table-guide-text1line-xFXxax {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.deviceplugincurtain3btn .group-8-7Fj9Mr {
+  background-color: transparent;
+  height: 40px;
+  left: 65px;
+  position: absolute;
+  top: 69px;
+  width: 40px;
+}
+
+.deviceplugincurtain3btn .group-7-7Fj9Mr {
+  background-color: transparent;
+  height: 40px;
+  left: 115px;
+  position: absolute;
+  top: 69px;
+  width: 40px;
+}
+
+.deviceplugincurtain3btn .group-6-7Fj9Mr {
+  background-color: transparent;
+  height: 40px;
+  left: 165px;
+  position: absolute;
+  top: 69px;
+  width: 40px;
+}
+
+.deviceplugincurtain3btn .descriptiontabletop-JDzuA7 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.deviceplugincurtain3btn .descriptiontable2line-gduvxj {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.deviceplugincurtain3btn .table-guide-text1line-copy-3-j6yzlx {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.deviceplugincurtain3btn .table-guide-text2linem-j6yzlx {
+  background-color: transparent;
+  height: 59px;
+  left: 62px;
+  position: absolute;
+  top: 37px;
+  width: 400px;
+}
+
+.deviceplugincurtain3btn .table-guide-text1line-copy-4-j6yzlx {
+  background-color: transparent;
+  height: 99px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.deviceplugincurtain3btn .table-guide-text2linem-copy-3-j6yzlx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.deviceplugincurtain3btn .group-3-UtA564 {
+  background-color: transparent;
+  height: 229px;
+  left: 1090px;
+  position: absolute;
+  top: 342px;
+  width: 730px;
+}
+
+.deviceplugincurtain3btn .descriptiontable2line-nUkFZF {
+  background-color: transparent;
+  height: 57px;
+  left: 0px;
+  position: absolute;
+  top: 172px;
+  width: 730px;
+}
+
+.deviceplugincurtain3btn .table-guide-text1line-0mI4yH {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.deviceplugincurtain3btn .table-guide-text1line-8uTPHc {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.deviceplugincurtain3btn .table-guide-text2line-0mI4yH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.deviceplugincurtain3btn .descriptiontable2line-liGsXn {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 125px;
+  width: 730px;
+}
+
+.deviceplugincurtain3btn .table-guide-text1line-I1kXMv {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.deviceplugincurtain3btn .table-guide-text1line-gSwxVh {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.deviceplugincurtain3btn .table-guide-text2line-I1kXMv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.deviceplugincurtain3btn .descriptiontabletop-nUkFZF {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 730px;
+}
+
+.deviceplugincurtain3btn .descriptiontable2line-oF85bL {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 730px;
+}
+
+.deviceplugincurtain3btn .table-guide-text1line-WHzxmU {
+  background-color: transparent;
+  height: 59px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 260px;
+}
+
+.deviceplugincurtain3btn .table-guide-text1line-S3iCFW {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.deviceplugincurtain3btn .table-guide-text2line-WHzxmU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.deviceplugincurtain3btn .table-guide-title-UtA564 {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 1358px;
+  width: 620px;
+}
+
+.deviceplugincurtain3btn .table-guide-title-74PB8m {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 620px;
+}
+
+.deviceplugincurtain3btn .web-sub-title-UtA564 {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.deviceplugincurtain3btn .web-title-area-UtA564 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.deviceplugincurtain3btn .web-tab-device-ergrated-switch-UtA564 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.deviceplugincurtain3btn .x3rd-depth-pxbEO9 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.deviceplugincurtain3btn .tab-sBH7sx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 102px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.deviceplugincurtain3btn .x2-btn-x0dVqU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 33px;
+}
+
+.deviceplugincurtain3btn .x3-btn-x0dVqU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 33px;
+}
+
+.deviceplugincurtain3btn .lnb-device-plug-in-UtA564 {
+  background-color: transparent;
+  height: 1131px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugincurtain3btn .rectangle-9qZ1Vg {
+  background-color: var(--concrete);
+  height: 1131px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugincurtain3btn .stacked-group-9qZ1Vg {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.deviceplugincurtain3btn .web-index-title-common-CDfr8b {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose55 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose45 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose35 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose25 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.deviceplugincurtain3btn .web-index-conte-hopenselected-CDfr8b {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group15 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group142 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group135 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group125 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group115 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group105 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group84 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group75 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group65 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group55 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group24 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose15 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.deviceplugincurtain3btn .group-CDfr8b {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugincurtain3btn .empty-miT5WY {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.deviceplugincurtain3btn .line-copy-miT5WY {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.deviceplugincurtain3btn .empty-YijzLh {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.deviceplugincurtain3btn .web-index-title-common-W3w5mP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.deviceplugincurtain3btn .line-9qZ1Vg {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.deviceplugincurtain3btn .home-net-gui-guidelin-9qZ1Vg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.deviceplugincurtain3btn .webgnb-UtA564 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugincurtain3btn .rectangle-Uyvc22 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugincurtain3btn .background-Uyvc22 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.deviceplugincurtain3btn .index-Uyvc22 {
+  background-color: transparent;
+  height: 64px;
+  left: 428px;
+  position: absolute;
+  top: 0px;
+  width: 117px;
+}
+
+.deviceplugincurtain3btn .web-index-select-AhKbnQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+
+.deviceplugincurtain3btn .web-index-unselect-AhKbnQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 85px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.deviceplugincurtain3btn .web-index-unelectmain-Uyvc22 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.deviceplugincurtain3btn .logo-JT5TxT {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+/* component - webindexcontents1dpethclose55 */
+
+
+/* component - webindexcontents1dpethclose45 */
+
+
+/* component - webindexcontents1dpethclose35 */
+
+
+/* component - webindexcontents1dpethclose25 */
+
+
+/* component - group15 */
+
+
+/* component - group142 */
+
+
+/* component - group135 */
+
+
+/* component - group125 */
+
+
+/* component - group115 */
+
+
+/* component - group105 */
+
+
+/* component - group84 */
+
+
+/* component - group75 */
+
+
+/* component - group65 */
+
+
+/* component - group55 */
+
+
+/* component - group24 */
+
+
+/* component - webindexcontents1dpethclose15 */
+
+
+/* component - webindexcontents1dpethclose9 */
+
+

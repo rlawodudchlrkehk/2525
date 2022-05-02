@@ -1,0 +1,432 @@
+/* screen - c2clifetabloadingserviceplugin */
+
+.c2clifetabloadingserviceplugin {
+  background-color: var(--white);
+  height: 2706px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2clifetabloadingserviceplugin .group-6-KxJ6C5 {
+  background-color: transparent;
+  height: 440px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2clifetabloadingserviceplugin .group-8-KxJ6C5 {
+  background-color: transparent;
+  height: 758px;
+  left: 320px;
+  position: absolute;
+  top: 1748px;
+  width: 1600px;
+}
+
+.c2clifetabloadingserviceplugin .group-7-KxJ6C5 {
+  background-color: transparent;
+  height: 724px;
+  left: 420px;
+  position: absolute;
+  top: 874px;
+  width: 1134px;
+}
+
+.c2clifetabloadingserviceplugin .web-title-area-KxJ6C5 {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2clifetabloadingserviceplugin .web-tabc2-c-connecto-KxJ6C5 {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2clifetabloadingserviceplugin .x3rd-depth-KQWjnz {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2clifetabloadingserviceplugin .tab-rwN8mr {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2clifetabloadingserviceplugin .life-tab-xQiuin {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 45px;
+}
+
+.c2clifetabloadingserviceplugin .service-card-health-xQiuin {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.c2clifetabloadingserviceplugin .service-card-types-xQiuin {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 108px;
+}
+
+.c2clifetabloadingserviceplugin .service-card-_-basic-xQiuin {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2clifetabloadingserviceplugin .service-card-_-quick-xQiuin {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 173px;
+}
+
+.c2clifetabloadingserviceplugin .loading-_-service-pl-xQiuin {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 157px;
+}
+
+.c2clifetabloadingserviceplugin .lnbc2-c-connector_2-KxJ6C5 {
+  background-color: transparent;
+  height: 850px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .rectangle-SIEkit {
+  background-color: var(--concrete);
+  height: 850px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .lnb-SIEkit {
+  background-color: transparent;
+  height: 850px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .rectangle-RPYVCf {
+  background-color: var(--concrete);
+  height: 620px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .stacked-group-RPYVCf {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-title-common-HtuRuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .empty-HtuRuX {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .line-copy-HtuRuX {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 0.2;
+  position: relative;
+  width: 275px;
+}
+
+.c2clifetabloadingserviceplugin .empty-copy-3-HtuRuX {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-title-reference-HtuRuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2clifetabloadingserviceplugin .empty-copy-2-HtuRuX {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .line-copy-2-HtuRuX {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 0.2;
+  position: relative;
+  width: 275px;
+}
+
+.c2clifetabloadingserviceplugin .empty-copy-HtuRuX {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-title-reference-copy-HtuRuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-contents1d-HtuRuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-contents1d-EOB44x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-contents1d-4Zgnxu {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-contents1d-R4FxbT {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-contents1dpeth_open_selected-HtuRuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-contents1dpeth_close-copy-6-HtuRuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-contents1dpeth_close-copy-7-HtuRuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-contents1dpeth_close-copy-3-HtuRuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-contents1dpeth_close-copy-6-EOB44x {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-contents1dpeth_close-copy-2-HtuRuX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2clifetabloadingserviceplugin .line-RPYVCf {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2clifetabloadingserviceplugin .home-net-ui-guideline-SIEkit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2clifetabloadingserviceplugin .webgnb-KxJ6C5 {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2clifetabloadingserviceplugin .rectangle-ZxV5e2 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2clifetabloadingserviceplugin .background-ZxV5e2 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2clifetabloadingserviceplugin .index-ZxV5e2 {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-select-izxJlK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-unselect-izxJlK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.c2clifetabloadingserviceplugin .web-index-unelect_main-ZxV5e2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

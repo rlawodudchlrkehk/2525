@@ -1,0 +1,793 @@
+/* screen - servicepluginhomemorehelpguidelight */
+
+.servicepluginhomemorehelpguidelight {
+  background-color: var(--white);
+  height: 3110px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomemorehelpguidelight .web-sub_-title-0Pqulm {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 337px;
+  width: 1600px;
+}
+
+.servicepluginhomemorehelpguidelight .table-guide-title-0Pqulm {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 395px;
+  width: 1162px;
+}
+
+.servicepluginhomemorehelpguidelight .web-tab-service-plug-0Pqulm {
+  background-color: transparent;
+  height: 34px;
+  left: 1500px;
+  position: absolute;
+  top: 381px;
+  width: 420px;
+}
+
+.servicepluginhomemorehelpguidelight .tab-iZu2NA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 105px;
+  position: relative;
+  top: 6px;
+  width: auto;
+}
+
+.servicepluginhomemorehelpguidelight .light_-theme-OYvH87 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 85px;
+}
+
+.servicepluginhomemorehelpguidelight .dark_-theme-OYvH87 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 79px;
+}
+
+.servicepluginhomemorehelpguidelight .group-19-0Pqulm {
+  background-color: transparent;
+  height: 241px;
+  left: 1153px;
+  position: absolute;
+  top: 2298px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-32-0Pqulm {
+  background-color: transparent;
+  height: 260px;
+  left: 1520px;
+  position: absolute;
+  top: 2298px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-33-0Pqulm {
+  background-color: transparent;
+  height: 259px;
+  left: 787px;
+  position: absolute;
+  top: 2656px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-17-0Pqulm {
+  background-color: transparent;
+  height: 259px;
+  left: 787px;
+  position: absolute;
+  top: 2298px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-34-0Pqulm {
+  background-color: transparent;
+  height: 193px;
+  left: 1153px;
+  position: absolute;
+  top: 2656px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-18-0Pqulm {
+  background-color: transparent;
+  height: 254px;
+  left: 420px;
+  position: absolute;
+  top: 2656px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-31-0Pqulm {
+  background-color: transparent;
+  height: 258px;
+  left: 420px;
+  position: absolute;
+  top: 2298px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-20-0Pqulm {
+  background-color: transparent;
+  height: 338px;
+  left: 1520px;
+  position: absolute;
+  top: 1860px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-24-0Pqulm {
+  background-color: transparent;
+  height: 281px;
+  left: 787px;
+  position: absolute;
+  top: 1860px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-30-0Pqulm {
+  background-color: transparent;
+  height: 263px;
+  left: 420px;
+  position: absolute;
+  top: 1860px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-21-0Pqulm {
+  background-color: transparent;
+  height: 239px;
+  left: 1153px;
+  position: absolute;
+  top: 1860px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .table-guide-title-copy-0Pqulm {
+  background-color: transparent;
+  height: 56px;
+  left: 420px;
+  position: absolute;
+  top: 1754px;
+  width: 1400px;
+}
+
+.servicepluginhomemorehelpguidelight .group-38-0Pqulm {
+  background-color: transparent;
+  height: 258px;
+  left: 420px;
+  position: absolute;
+  top: 938px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-37-0Pqulm {
+  background-color: transparent;
+  height: 258px;
+  left: 787px;
+  position: absolute;
+  top: 938px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-39-0Pqulm {
+  background-color: transparent;
+  height: 263px;
+  left: 420px;
+  position: absolute;
+  top: 501px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-40-0Pqulm {
+  background-color: transparent;
+  height: 281px;
+  left: 787px;
+  position: absolute;
+  top: 501px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-41-0Pqulm {
+  background-color: transparent;
+  height: 238px;
+  left: 1153px;
+  position: absolute;
+  top: 501px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-42-0Pqulm {
+  background-color: transparent;
+  height: 337px;
+  left: 1520px;
+  position: absolute;
+  top: 501px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-44-0Pqulm {
+  background-color: transparent;
+  height: 258px;
+  left: 787px;
+  position: absolute;
+  top: 1296px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-45-0Pqulm {
+  background-color: transparent;
+  height: 254px;
+  left: 420px;
+  position: absolute;
+  top: 1296px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-36-0Pqulm {
+  background-color: transparent;
+  height: 241px;
+  left: 1153px;
+  position: absolute;
+  top: 938px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-35-0Pqulm {
+  background-color: transparent;
+  height: 258px;
+  left: 1520px;
+  position: absolute;
+  top: 938px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .group-43-0Pqulm {
+  background-color: transparent;
+  height: 193px;
+  left: 1153px;
+  position: absolute;
+  top: 1296px;
+  width: 300px;
+}
+
+.servicepluginhomemorehelpguidelight .web-title-area-0Pqulm {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomemorehelpguidelight .web-tab-service-plug-in_-home-screen-0Pqulm {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicepluginhomemorehelpguidelight .x3rd-depth-20xCxD {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginhomemorehelpguidelight .tab-kUn6n7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginhomemorehelpguidelight .feature-U5Ipxh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomemorehelpguidelight .feature-_-shortcut-U5Ipxh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 119px;
+}
+
+.servicepluginhomemorehelpguidelight .more-U5Ipxh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 32px;
+}
+
+.servicepluginhomemorehelpguidelight .more-_-edit-_-featur-U5Ipxh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 133px;
+}
+
+.servicepluginhomemorehelpguidelight .more_-notifications_f-U5Ipxh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 176px;
+}
+
+.servicepluginhomemorehelpguidelight .more-_-help-guide-U5Ipxh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 113px;
+}
+
+.servicepluginhomemorehelpguidelight .x3rd-depth-V0QNUf {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 53px;
+  width: 1600px;
+}
+
+.servicepluginhomemorehelpguidelight .tab-9b3uVh {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.servicepluginhomemorehelpguidelight .more-_-help-guide-_-4fEUpA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 226px;
+}
+
+.servicepluginhomemorehelpguidelight .more-_-help-guide-_-Kchf4Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 169px;
+}
+
+.servicepluginhomemorehelpguidelight .service-feature-4fEUpA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 96px;
+}
+
+.servicepluginhomemorehelpguidelight .service-feature-_-no-4fEUpA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 161px;
+}
+
+.servicepluginhomemorehelpguidelight .touch-area-4fEUpA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomemorehelpguidelight .lnb-service-plug-in-0Pqulm {
+  background-color: transparent;
+  height: 1085px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomemorehelpguidelight .rectangle-QBo1yR {
+  background-color: var(--concrete);
+  height: 1085px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomemorehelpguidelight .lnb-QBo1yR {
+  background-color: transparent;
+  height: 1085px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomemorehelpguidelight .stacked-group-eQBMqc {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.servicepluginhomemorehelpguidelight .web-index-title-common-eAx7bU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.webindexcontents1dpethclose540 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose440 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose340 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose141 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose240 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.webindexcontents1dpethclose83 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.servicepluginhomemorehelpguidelight .web-index-contents1dpeth_open_selected-eAx7bU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.group1039 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group934 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group835 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group732 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group631 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group531 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group430 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group329 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group230 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.group121 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.servicepluginhomemorehelpguidelight .group-eAx7bU {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemorehelpguidelight .empty-P4uzTv {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 320px;
+}
+
+.servicepluginhomemorehelpguidelight .line-copy-P4uzTv {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 20px;
+  width: 275px;
+}
+
+.servicepluginhomemorehelpguidelight .empty-dlFEzP {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhomemorehelpguidelight .web-index-title-common-bvG9p2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomemorehelpguidelight .line-eQBMqc {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.servicepluginhomemorehelpguidelight .home-net-gui-guidelin-eQBMqc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.servicepluginhomemorehelpguidelight .webgnb-0Pqulm {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomemorehelpguidelight .rectangle-E1wape {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomemorehelpguidelight .background-E1wape {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.servicepluginhomemorehelpguidelight .index-E1wape {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.servicepluginhomemorehelpguidelight .web-index-select-VHXR3R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.servicepluginhomemorehelpguidelight .web-index-unselect-VHXR3R {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 92px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.servicepluginhomemorehelpguidelight .web-index-unelect_main-E1wape {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.servicepluginhomemorehelpguidelight .logo-V4x08y {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}

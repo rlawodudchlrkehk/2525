@@ -1,0 +1,414 @@
+/* screen - c2captserviceconnectiononboardingwelcomepage */
+
+.c2captserviceconnectiononboardingwelcomepage {
+  background-color: var(--white);
+  height: 1327px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .group-3-4l9J2I {
+  background-color: transparent;
+  height: 785px;
+  left: 420px;
+  position: absolute;
+  top: 342px;
+  width: 670px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .group-5-4l9J2I {
+  background-color: transparent;
+  height: 303px;
+  left: 1140px;
+  position: absolute;
+  top: 342px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .group-10-4l9J2I {
+  background-color: transparent;
+  height: 346px;
+  left: 1140px;
+  position: absolute;
+  top: 745px;
+  width: 680px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-sub_-title-4l9J2I {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-title-area-4l9J2I {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: absolute;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-tabc2-c-connector_-4l9J2I {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: absolute;
+  top: 187px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .x3rd-depth-Ao1Abb {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .tab-7syYPK {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .overview-vsXmqK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 56px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .onboarding-start-p-vsXmqK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .onboarding-vsXmqK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 191px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .onboarding-welcome-vsXmqK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 175px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .interaction-flow-vsXmqK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .lnbc2-c-connector_1-4l9J2I {
+  background-color: transparent;
+  height: 758px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .rectangle-df1Skn {
+  background-color: var(--concrete);
+  height: 758px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .lnb-df1Skn {
+  background-color: transparent;
+  height: 758px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .rectangle-FU5CvC {
+  background-color: var(--concrete);
+  height: 620px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .stacked-group-FU5CvC {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-title-common-zuYsYE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .empty-zuYsYE {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .line-copy-zuYsYE {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 0.2;
+  position: relative;
+  width: 275px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .empty-Cff7WB {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-title-reference-zuYsYE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .empty-copy-2-zuYsYE {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .line-copy-2-zuYsYE {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 0.2;
+  position: relative;
+  width: 275px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .empty-copy-zuYsYE {
+  background-color: transparent;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-title-reference-copy-zuYsYE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 313px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-contents1d-zuYsYE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-contents1d-Cff7WB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-contents1d-aeKbxV {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-contents1dpeth_open_selected-zuYsYE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-contents1dpeth_close-copy-5-zuYsYE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-contents1dpeth_close-copy-3-zuYsYE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-contents1dpeth_close-copy-6-zuYsYE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-contents1dpeth_close-copy-2-zuYsYE {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .line-FU5CvC {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .home-net-ui-guideline-df1Skn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 199px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .webgnb-4l9J2I {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .rectangle-PI2mxd {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .background-PI2mxd {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .index-PI2mxd {
+  background-color: transparent;
+  height: 64px;
+  left: 421px;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-select-gpDLic {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 32px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-unselect-gpDLic {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 93px;
+  position: absolute;
+  top: 21px;
+  width: 29px;
+}
+
+.c2captserviceconnectiononboardingwelcomepage .web-index-unelect_main-PI2mxd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
